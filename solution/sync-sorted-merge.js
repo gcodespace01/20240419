@@ -25,9 +25,8 @@ module.exports = (logSources, printer) => {
 
   while (first.length > 0) {
 
-    let entry = first[0];
+    let entry = first.shift();
     printer.print(entry);
-    first.shift();
 
     let pop = logSources[entry.sourceIndex].pop();
     if (pop === false) {
