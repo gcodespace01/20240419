@@ -34,7 +34,6 @@ module.exports = (logSources, printer) => {
     first.shift();
 
     filer.pop();
-
     let pop = logSources[entry.sourceIndex].pop();
     if (pop === false) {
       continue;

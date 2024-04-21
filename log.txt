@@ -1,712 +1,785 @@
-{"date":"2024-03-04T00:15:32.472Z","msg":"Organized zero administration archive","sourceIndex":0}
-{"date":"2024-02-27T10:15:58.791Z","msg":"Cross-group full-range orchestration","sourceIndex":2}
-{"date":"2024-02-27T15:16:18.229Z","msg":"De-engineered analyzing Graphic Interface","sourceIndex":2}
-{"date":"2024-02-27T15:17:10.574Z","msg":"Enhanced transitional knowledge user","sourceIndex":2}
-{"date":"2024-02-27T18:17:54.883Z","msg":"Front-line demand-driven moderator","sourceIndex":2}
-{"date":"2024-02-28T01:18:51.660Z","msg":"Integrated encompassing function","sourceIndex":2}
-{"date":"2024-02-28T03:19:41.076Z","msg":"Devolved next generation challenge","sourceIndex":2}
-{"date":"2024-02-28T04:20:06.282Z","msg":"Enhanced clear-thinking website","sourceIndex":2}
-{"date":"2024-02-28T13:20:50.339Z","msg":"Mandatory analyzing infrastructure","sourceIndex":2}
-{"date":"2024-02-28T23:21:45.999Z","msg":"Robust secondary attitude","sourceIndex":2}
-{"date":"2024-02-29T00:22:21.262Z","msg":"Innovative client-driven system engine","sourceIndex":2}
-{"date":"2024-02-29T09:22:48.419Z","msg":"Multi-lateral zero tolerance implementation","sourceIndex":2}
-{"date":"2024-02-29T13:22:52.248Z","msg":"Profit-focused high-level paradigm","sourceIndex":2}
-{"date":"2024-02-29T20:23:10.769Z","msg":"Down-sized executive architecture","sourceIndex":2}
-{"date":"2024-03-01T01:23:26.157Z","msg":"User-centric disintermediate approach","sourceIndex":2}
-{"date":"2024-03-01T11:23:50.525Z","msg":"Assimilated high-level standardization","sourceIndex":2}
-{"date":"2024-02-27T05:15:32.328Z","msg":"Customizable cohesive website","sourceIndex":2}
-{"date":"2024-03-06T04:15:09.583Z","msg":"Seamless zero tolerance hub","sourceIndex":1}
-{"date":"2024-03-01T19:24:22.815Z","msg":"Focused bifurcated workforce","sourceIndex":2}
-{"date":"2024-03-02T00:25:14.705Z","msg":"Polarised didactic challenge","sourceIndex":2}
-{"date":"2024-03-02T10:26:04.312Z","msg":"Implemented 24 hour success","sourceIndex":2}
-{"date":"2024-03-02T12:26:52.704Z","msg":"Cross-platform upward-trending matrix","sourceIndex":2}
-{"date":"2024-03-02T12:26:56.771Z","msg":"Versatile impactful capacity","sourceIndex":2}
-{"date":"2024-03-02T18:27:51.666Z","msg":"Public-key clear-thinking portal","sourceIndex":2}
-{"date":"2024-03-03T04:28:48.056Z","msg":"Compatible optimal paradigm","sourceIndex":2}
-{"date":"2024-03-03T08:29:19.590Z","msg":"Cloned optimal process improvement","sourceIndex":2}
-{"date":"2024-03-03T09:30:04.472Z","msg":"Diverse discrete portal","sourceIndex":2}
-{"date":"2024-03-03T14:30:38.399Z","msg":"Multi-channelled didactic system engine","sourceIndex":2}
-{"date":"2024-03-04T01:31:31.353Z","msg":"Integrated next generation capability","sourceIndex":2}
-{"date":"2024-03-04T06:15:56.430Z","msg":"Versatile motivating installation","sourceIndex":0}
-{"date":"2024-03-04T09:31:35.172Z","msg":"Open-architected scalable extranet","sourceIndex":2}
-{"date":"2024-03-04T13:16:39.495Z","msg":"Inverse even-keeled knowledge user","sourceIndex":0}
-{"date":"2024-03-04T19:32:27.749Z","msg":"User-centric modular encoding","sourceIndex":2}
-{"date":"2024-03-04T17:17:09.900Z","msg":"Integrated client-server solution","sourceIndex":0}
-{"date":"2024-03-04T21:17:41.720Z","msg":"Synchronised zero defect matrices","sourceIndex":0}
-{"date":"2024-03-04T20:32:47.287Z","msg":"Vision-oriented methodical Graphical User Interface","sourceIndex":2}
-{"date":"2024-03-04T23:32:53.613Z","msg":"Configurable needs-based projection","sourceIndex":2}
-{"date":"2024-03-04T21:18:17.126Z","msg":"Enterprise-wide leading edge framework","sourceIndex":0}
-{"date":"2024-03-05T07:18:20.091Z","msg":"Proactive non-volatile interface","sourceIndex":0}
-{"date":"2024-03-05T03:33:01.792Z","msg":"Reactive zero defect initiative","sourceIndex":2}
-{"date":"2024-03-05T12:33:12.355Z","msg":"Automated secondary attitude","sourceIndex":2}
-{"date":"2024-03-05T13:18:37.342Z","msg":"Managed cohesive access","sourceIndex":0}
-{"date":"2024-03-05T19:33:47.955Z","msg":"Customizable demand-driven projection","sourceIndex":2}
-{"date":"2024-03-05T16:18:48.216Z","msg":"Optional intangible circuit","sourceIndex":0}
-{"date":"2024-03-05T23:18:58.964Z","msg":"Extended homogeneous groupware","sourceIndex":0}
-{"date":"2024-03-06T00:34:17.221Z","msg":"Innovative assymetric leverage","sourceIndex":2}
-{"date":"2024-03-06T09:19:32.890Z","msg":"Synchronised needs-based application","sourceIndex":0}
-{"date":"2024-03-06T00:34:47.949Z","msg":"User-centric multi-state middleware","sourceIndex":2}
-{"date":"2024-03-06T03:35:10.017Z","msg":"Object-based disintermediate neural-net","sourceIndex":2}
-{"date":"2024-03-06T06:36:02.531Z","msg":"Decentralized solution-oriented secured line","sourceIndex":2}
-{"date":"2024-03-06T09:15:48.200Z","msg":"Phased human-resource intranet","sourceIndex":1}
-{"date":"2024-03-06T13:37:02.482Z","msg":"Reactive contextually-based pricing structure","sourceIndex":2}
-{"date":"2024-03-06T16:15:55.870Z","msg":"Total reciprocal paradigm","sourceIndex":1}
-{"date":"2024-03-06T18:20:05.250Z","msg":"Innovative web-enabled productivity","sourceIndex":0}
-{"date":"2024-03-06T16:37:42.398Z","msg":"Face to face zero tolerance core","sourceIndex":2}
-{"date":"2024-03-07T02:16:19.427Z","msg":"Function-based optimal migration","sourceIndex":1}
-{"date":"2024-03-07T02:38:17.124Z","msg":"Pre-emptive high-level hierarchy","sourceIndex":2}
-{"date":"2024-03-06T21:20:41.131Z","msg":"Decentralized dynamic service-desk","sourceIndex":0}
-{"date":"2024-03-06T22:20:48.024Z","msg":"Synergistic responsive portal","sourceIndex":0}
-{"date":"2024-03-06T23:21:35.210Z","msg":"Reduced zero administration orchestration","sourceIndex":0}
-{"date":"2024-03-07T04:21:36.234Z","msg":"Optional client-server adapter","sourceIndex":0}
-{"date":"2024-03-07T02:16:20.367Z","msg":"Organized even-keeled system engine","sourceIndex":1}
-{"date":"2024-03-07T10:16:47.017Z","msg":"Customizable upward-trending concept","sourceIndex":1}
-{"date":"2024-03-07T08:38:40.378Z","msg":"Reverse-engineered demand-driven knowledge base","sourceIndex":2}
-{"date":"2024-03-07T10:22:35.594Z","msg":"Virtual responsive customer loyalty","sourceIndex":0}
-{"date":"2024-03-07T10:39:29.540Z","msg":"Focused empowering utilisation","sourceIndex":2}
-{"date":"2024-03-07T19:17:28.899Z","msg":"Re-engineered exuding hierarchy","sourceIndex":1}
-{"date":"2024-03-07T13:22:49.440Z","msg":"Organic executive database","sourceIndex":0}
-{"date":"2024-03-07T15:40:23.938Z","msg":"Fully-configurable even-keeled database","sourceIndex":2}
-{"date":"2024-03-07T19:23:32.648Z","msg":"Ameliorated client-driven database","sourceIndex":0}
-{"date":"2024-03-07T15:40:40.310Z","msg":"Synergistic bottom-line challenge","sourceIndex":2}
-{"date":"2024-03-07T18:40:56.643Z","msg":"Progressive contextually-based budgetary management","sourceIndex":2}
-{"date":"2024-03-08T00:41:49.300Z","msg":"Vision-oriented contextually-based matrix","sourceIndex":2}
-{"date":"2024-03-07T22:18:07.868Z","msg":"Focused scalable website","sourceIndex":1}
-{"date":"2024-03-08T02:24:28.158Z","msg":"Balanced cohesive circuit","sourceIndex":0}
-{"date":"2024-03-08T00:18:44.696Z","msg":"Innovative scalable synergy","sourceIndex":1}
-{"date":"2024-03-08T02:19:30.225Z","msg":"Customizable global knowledge base","sourceIndex":1}
-{"date":"2024-03-08T09:42:43.273Z","msg":"Team-oriented discrete open architecture","sourceIndex":2}
-{"date":"2024-03-08T11:19:54.079Z","msg":"Synchronised transitional toolset","sourceIndex":1}
-{"date":"2024-03-08T03:25:22.245Z","msg":"Phased web-enabled adapter","sourceIndex":0}
-{"date":"2024-03-08T11:26:17.498Z","msg":"Enhanced system-worthy benchmark","sourceIndex":0}
-{"date":"2024-03-08T17:43:28.042Z","msg":"User-friendly holistic workforce","sourceIndex":2}
-{"date":"2024-03-08T21:20:01.829Z","msg":"Switchable 24/7 service-desk","sourceIndex":1}
-{"date":"2024-03-08T14:26:36.593Z","msg":"Sharable solution-oriented migration","sourceIndex":0}
-{"date":"2024-03-08T18:26:50.647Z","msg":"Seamless bottom-line archive","sourceIndex":0}
-{"date":"2024-03-08T23:44:08.108Z","msg":"Universal solution-oriented data-warehouse","sourceIndex":2}
-{"date":"2024-03-08T19:27:14.818Z","msg":"Multi-lateral uniform matrices","sourceIndex":0}
-{"date":"2024-03-08T23:27:16.211Z","msg":"Ameliorated regional standardization","sourceIndex":0}
-{"date":"2024-03-08T22:20:05.168Z","msg":"Realigned needs-based alliance","sourceIndex":1}
-{"date":"2024-03-09T07:20:29.868Z","msg":"Exclusive uniform adapter","sourceIndex":1}
-{"date":"2024-03-08T23:27:18.951Z","msg":"Configurable 24 hour open architecture","sourceIndex":0}
-{"date":"2024-03-09T00:27:47.504Z","msg":"Networked cohesive leverage","sourceIndex":0}
-{"date":"2024-03-09T08:44:18.727Z","msg":"Persistent scalable circuit","sourceIndex":2}
-{"date":"2024-03-09T03:28:15.938Z","msg":"User-friendly real-time Graphical User Interface","sourceIndex":0}
-{"date":"2024-03-09T12:28:31.627Z","msg":"Versatile scalable frame","sourceIndex":0}
-{"date":"2024-03-09T07:21:27.451Z","msg":"Managed transitional model","sourceIndex":1}
-{"date":"2024-03-09T11:21:41.620Z","msg":"Multi-layered bandwidth-monitored open system","sourceIndex":1}
-{"date":"2024-03-09T15:45:12.379Z","msg":"Focused web-enabled core","sourceIndex":2}
-{"date":"2024-03-09T15:22:16.443Z","msg":"Down-sized interactive system engine","sourceIndex":1}
-{"date":"2024-03-09T16:28:58.207Z","msg":"Object-based 24/7 alliance","sourceIndex":0}
-{"date":"2024-03-09T18:23:01.802Z","msg":"Face to face multi-tasking local area network","sourceIndex":1}
-{"date":"2024-03-09T21:45:35.472Z","msg":"Integrated dedicated archive","sourceIndex":2}
-{"date":"2024-03-09T22:29:03.356Z","msg":"Synergistic zero tolerance process improvement","sourceIndex":0}
-{"date":"2024-03-09T19:23:20.582Z","msg":"Quality-focused multimedia secured line","sourceIndex":1}
-{"date":"2024-03-09T20:24:14.493Z","msg":"Phased full-range attitude","sourceIndex":1}
-{"date":"2024-03-09T22:24:26.192Z","msg":"Secured static strategy","sourceIndex":1}
-{"date":"2024-03-09T21:46:27.751Z","msg":"Adaptive solution-oriented customer loyalty","sourceIndex":2}
-{"date":"2024-03-10T07:47:15.305Z","msg":"Configurable asynchronous structure","sourceIndex":2}
-{"date":"2024-03-10T05:25:16.942Z","msg":"Customizable 5th generation model","sourceIndex":1}
-{"date":"2024-03-10T02:29:21.159Z","msg":"Optional 6th generation Graphic Interface","sourceIndex":0}
-{"date":"2024-03-10T03:29:37.599Z","msg":"Seamless systematic middleware","sourceIndex":0}
-{"date":"2024-03-10T06:30:08.093Z","msg":"Object-based mobile open architecture","sourceIndex":0}
-{"date":"2024-03-10T10:25:27.302Z","msg":"Open-architected clear-thinking moderator","sourceIndex":1}
-{"date":"2024-03-10T08:31:04.117Z","msg":"Synergistic homogeneous core","sourceIndex":0}
-{"date":"2024-03-10T09:47:49.039Z","msg":"Fully-configurable mobile encoding","sourceIndex":2}
-{"date":"2024-03-10T13:32:01.221Z","msg":"Mandatory non-volatile software","sourceIndex":0}
-{"date":"2024-03-10T14:48:41.218Z","msg":"Integrated dedicated ability","sourceIndex":2}
-{"date":"2024-03-10T20:25:33.144Z","msg":"Expanded maximized protocol","sourceIndex":1}
-{"date":"2024-03-10T21:49:18.882Z","msg":"Re-engineered holistic concept","sourceIndex":2}
-{"date":"2024-03-10T20:32:11.475Z","msg":"Upgradable next generation time-frame","sourceIndex":0}
-{"date":"2024-03-11T03:25:51.699Z","msg":"Reduced grid-enabled task-force","sourceIndex":1}
-{"date":"2024-03-10T22:32:37.100Z","msg":"Universal holistic help-desk","sourceIndex":0}
-{"date":"2024-03-11T02:49:54.892Z","msg":"Streamlined next generation strategy","sourceIndex":2}
-{"date":"2024-03-11T07:33:26.674Z","msg":"Face to face bottom-line info-mediaries","sourceIndex":0}
-{"date":"2024-03-11T09:50:10.273Z","msg":"Self-enabling 5th generation ability","sourceIndex":2}
-{"date":"2024-03-11T12:26:47.233Z","msg":"Total leading edge initiative","sourceIndex":1}
-{"date":"2024-03-11T11:33:32.621Z","msg":"Distributed uniform standardization","sourceIndex":0}
-{"date":"2024-03-11T09:50:58.611Z","msg":"Future-proofed zero administration software","sourceIndex":2}
-{"date":"2024-03-11T10:51:23.677Z","msg":"Robust impactful contingency","sourceIndex":2}
-{"date":"2024-03-11T19:51:44.455Z","msg":"Future-proofed exuding open system","sourceIndex":2}
-{"date":"2024-03-11T11:34:20.054Z","msg":"Integrated zero defect portal","sourceIndex":0}
-{"date":"2024-03-11T19:34:40.547Z","msg":"Ergonomic responsive leverage","sourceIndex":0}
-{"date":"2024-03-11T14:27:06.080Z","msg":"Re-contextualized coherent service-desk","sourceIndex":1}
-{"date":"2024-03-11T22:27:32.223Z","msg":"Centralized mission-critical intranet","sourceIndex":1}
-{"date":"2024-03-12T05:35:01.845Z","msg":"Profound context-sensitive access","sourceIndex":0}
-{"date":"2024-03-12T01:52:15.741Z","msg":"Re-engineered modular software","sourceIndex":2}
-{"date":"2024-03-12T07:27:53.664Z","msg":"Inverse multi-tasking extranet","sourceIndex":1}
-{"date":"2024-03-12T08:52:57.746Z","msg":"Open-source tertiary flexibility","sourceIndex":2}
-{"date":"2024-03-12T06:35:26.171Z","msg":"User-centric well-modulated archive","sourceIndex":0}
-{"date":"2024-03-12T14:36:10.028Z","msg":"Fully-configurable exuding internet solution","sourceIndex":0}
-{"date":"2024-03-12T17:28:40.189Z","msg":"Diverse mobile synergy","sourceIndex":1}
-{"date":"2024-03-12T08:53:24.624Z","msg":"Phased neutral moderator","sourceIndex":2}
-{"date":"2024-03-12T10:53:34.869Z","msg":"Down-sized radical complexity","sourceIndex":2}
-{"date":"2024-03-12T18:54:01.222Z","msg":"Expanded zero defect database","sourceIndex":2}
-{"date":"2024-03-12T20:37:05.405Z","msg":"Seamless foreground superstructure","sourceIndex":0}
-{"date":"2024-03-12T21:28:52.586Z","msg":"Stand-alone cohesive project","sourceIndex":1}
-{"date":"2024-03-13T02:54:18.274Z","msg":"Distributed fresh-thinking parallelism","sourceIndex":2}
-{"date":"2024-03-13T03:37:20.133Z","msg":"Assimilated upward-trending function","sourceIndex":0}
-{"date":"2024-03-13T06:29:30.978Z","msg":"Devolved methodical hierarchy","sourceIndex":1}
-{"date":"2024-03-13T06:54:34.748Z","msg":"Sharable static installation","sourceIndex":2}
-{"date":"2024-03-13T04:37:39.891Z","msg":"Assimilated cohesive website","sourceIndex":0}
-{"date":"2024-03-13T10:37:59.871Z","msg":"De-engineered 3rd generation policy","sourceIndex":0}
-{"date":"2024-03-13T06:30:03.138Z","msg":"Re-contextualized disintermediate budgetary management","sourceIndex":1}
-{"date":"2024-03-13T07:30:41.325Z","msg":"Universal client-server capability","sourceIndex":1}
-{"date":"2024-03-13T08:54:40.163Z","msg":"Switchable dynamic core","sourceIndex":2}
-{"date":"2024-03-13T16:31:14.793Z","msg":"Re-contextualized user-facing website","sourceIndex":1}
-{"date":"2024-03-13T16:55:14.030Z","msg":"Team-oriented client-server paradigm","sourceIndex":2}
-{"date":"2024-03-13T19:38:57.075Z","msg":"Versatile uniform capability","sourceIndex":0}
-{"date":"2024-03-13T21:31:34.051Z","msg":"Extended next generation structure","sourceIndex":1}
-{"date":"2024-03-13T20:56:13.078Z","msg":"Integrated homogeneous support","sourceIndex":2}
-{"date":"2024-03-13T23:39:46.383Z","msg":"Function-based optimizing installation","sourceIndex":0}
-{"date":"2024-03-14T01:56:31.774Z","msg":"Exclusive tangible core","sourceIndex":2}
-{"date":"2024-03-13T21:32:03.169Z","msg":"Intuitive eco-centric emulation","sourceIndex":1}
-{"date":"2024-03-13T22:32:15.500Z","msg":"Polarised national solution","sourceIndex":1}
-{"date":"2024-03-14T05:32:33.573Z","msg":"Optimized explicit complexity","sourceIndex":1}
-{"date":"2024-03-13T23:40:35.045Z","msg":"Up-sized encompassing frame","sourceIndex":0}
-{"date":"2024-03-14T09:41:27.514Z","msg":"Managed systematic infrastructure","sourceIndex":0}
-{"date":"2024-03-14T04:57:13.048Z","msg":"Operative mission-critical access","sourceIndex":2}
-{"date":"2024-03-14T06:57:49.398Z","msg":"Robust impactful budgetary management","sourceIndex":2}
-{"date":"2024-03-14T08:33:30.036Z","msg":"Up-sized interactive encoding","sourceIndex":1}
-{"date":"2024-03-14T08:57:54.642Z","msg":"De-engineered regional knowledge user","sourceIndex":2}
-{"date":"2024-03-14T18:58:03.842Z","msg":"Synergized foreground standardization","sourceIndex":2}
-{"date":"2024-03-14T11:34:15.361Z","msg":"Quality-focused composite product","sourceIndex":1}
-{"date":"2024-03-14T12:42:17.867Z","msg":"Enterprise-wide multi-tasking firmware","sourceIndex":0}
-{"date":"2024-03-14T13:34:55.937Z","msg":"Stand-alone high-level collaboration","sourceIndex":1}
-{"date":"2024-03-15T02:35:53.256Z","msg":"Enterprise-wide fault-tolerant middleware","sourceIndex":1}
-{"date":"2024-03-15T02:58:19.513Z","msg":"Stand-alone coherent productivity","sourceIndex":2}
-{"date":"2024-03-14T23:43:46.475Z","msg":"Decentralized 5th generation moderator","sourceIndex":0}
-{"date":"2024-03-15T07:44:09.071Z","msg":"Ergonomic static projection","sourceIndex":0}
-{"date":"2024-03-15T09:36:49.397Z","msg":"Customer-focused didactic matrices","sourceIndex":1}
-{"date":"2024-03-15T09:58:21.792Z","msg":"Balanced incremental Graphic Interface","sourceIndex":2}
-{"date":"2024-03-15T14:44:38.797Z","msg":"Mandatory non-volatile productivity","sourceIndex":0}
-{"date":"2024-03-15T14:37:26.662Z","msg":"Ameliorated context-sensitive hardware","sourceIndex":1}
-{"date":"2024-03-15T11:59:19.135Z","msg":"Polarised hybrid function","sourceIndex":2}
-{"date":"2024-03-15T20:00:02.651Z","msg":"Face to face local project","sourceIndex":2}
-{"date":"2024-03-16T00:38:21.597Z","msg":"Automated radical hardware","sourceIndex":1}
-{"date":"2024-03-15T20:45:23.793Z","msg":"Secured directional success","sourceIndex":0}
-{"date":"2024-03-16T03:00:26.136Z","msg":"Advanced multi-state policy","sourceIndex":2}
-{"date":"2024-03-16T06:46:07.266Z","msg":"Sharable holistic secured line","sourceIndex":0}
-{"date":"2024-03-16T04:39:11.789Z","msg":"Monitored actuating utilisation","sourceIndex":1}
-{"date":"2024-03-16T09:00:32.589Z","msg":"Down-sized bi-directional collaboration","sourceIndex":2}
-{"date":"2024-03-16T13:39:12.321Z","msg":"Robust eco-centric attitude","sourceIndex":1}
-{"date":"2024-03-16T12:46:31.421Z","msg":"Stand-alone mission-critical support","sourceIndex":0}
-{"date":"2024-03-16T09:01:18.835Z","msg":"Reactive impactful artificial intelligence","sourceIndex":2}
-{"date":"2024-03-16T18:01:35.022Z","msg":"Programmable non-volatile open system","sourceIndex":2}
-{"date":"2024-03-16T22:46:57.851Z","msg":"Virtual incremental archive","sourceIndex":0}
-{"date":"2024-03-16T14:40:10.095Z","msg":"Virtual well-modulated alliance","sourceIndex":1}
-{"date":"2024-03-16T16:41:03.408Z","msg":"Grass-roots multi-state projection","sourceIndex":1}
-{"date":"2024-03-16T19:41:24.512Z","msg":"Seamless real-time adapter","sourceIndex":1}
-{"date":"2024-03-16T19:01:46.633Z","msg":"Progressive interactive local area network","sourceIndex":2}
-{"date":"2024-03-17T03:02:01.462Z","msg":"Multi-channelled didactic application","sourceIndex":2}
-{"date":"2024-03-17T05:41:44.446Z","msg":"Down-sized attitude-oriented matrix","sourceIndex":1}
-{"date":"2024-03-17T00:47:26.471Z","msg":"Triple-buffered eco-centric methodology","sourceIndex":0}
-{"date":"2024-03-17T06:47:29.126Z","msg":"Persevering next generation frame","sourceIndex":0}
-{"date":"2024-03-17T05:02:24.205Z","msg":"Advanced coherent structure","sourceIndex":2}
-{"date":"2024-03-17T05:02:25.124Z","msg":"Multi-channelled holistic neural-net","sourceIndex":2}
-{"date":"2024-03-17T12:02:44.270Z","msg":"Integrated motivating circuit","sourceIndex":2}
-{"date":"2024-03-17T15:42:17.878Z","msg":"Virtual non-volatile leverage","sourceIndex":1}
-{"date":"2024-03-17T11:48:02.997Z","msg":"Operative content-based policy","sourceIndex":0}
-{"date":"2024-03-17T18:48:10.737Z","msg":"Horizontal radical forecast","sourceIndex":0}
-{"date":"2024-03-17T17:02:45.249Z","msg":"Profound client-server moratorium","sourceIndex":2}
-{"date":"2024-03-18T01:42:18.818Z","msg":"Fundamental optimal Graphic Interface","sourceIndex":1}
-{"date":"2024-03-17T21:03:00.279Z","msg":"Public-key demand-driven forecast","sourceIndex":2}
-{"date":"2024-03-17T22:48:41.262Z","msg":"Multi-channelled 3rd generation artificial intelligence","sourceIndex":0}
-{"date":"2024-03-17T22:03:32.920Z","msg":"Upgradable tangible capacity","sourceIndex":2}
-{"date":"2024-03-18T04:04:19.143Z","msg":"Operative optimizing superstructure","sourceIndex":2}
-{"date":"2024-03-18T06:49:01.557Z","msg":"Fundamental real-time algorithm","sourceIndex":0}
-{"date":"2024-03-18T08:42:42.046Z","msg":"Stand-alone 4th generation flexibility","sourceIndex":1}
-{"date":"2024-03-18T13:04:50.037Z","msg":"Enterprise-wide non-volatile policy","sourceIndex":2}
-{"date":"2024-03-18T06:49:19.062Z","msg":"Fully-configurable 4th generation matrix","sourceIndex":0}
-{"date":"2024-03-18T12:49:54.211Z","msg":"User-friendly fault-tolerant product","sourceIndex":0}
-{"date":"2024-03-18T09:43:01.981Z","msg":"Self-enabling explicit utilisation","sourceIndex":1}
-{"date":"2024-03-18T14:43:32.564Z","msg":"Organized intermediate instruction set","sourceIndex":1}
-{"date":"2024-03-18T20:50:20.415Z","msg":"Persevering value-added application","sourceIndex":0}
-{"date":"2024-03-18T19:05:05.578Z","msg":"Assimilated incremental Graphical User Interface","sourceIndex":2}
-{"date":"2024-03-18T16:43:40.691Z","msg":"Grass-roots secondary knowledge user","sourceIndex":1}
-{"date":"2024-03-18T18:44:01.640Z","msg":"Realigned zero administration focus group","sourceIndex":1}
-{"date":"2024-03-19T00:44:17.339Z","msg":"Upgradable system-worthy array","sourceIndex":1}
-{"date":"2024-03-19T04:05:47.381Z","msg":"Ergonomic reciprocal success","sourceIndex":2}
-{"date":"2024-03-19T01:50:21.794Z","msg":"Right-sized logistical contingency","sourceIndex":0}
-{"date":"2024-03-19T02:44:26.700Z","msg":"User-centric human-resource groupware","sourceIndex":1}
-{"date":"2024-03-19T05:50:23.131Z","msg":"Profound discrete utilisation","sourceIndex":0}
-{"date":"2024-03-19T02:44:58.830Z","msg":"Compatible responsive database","sourceIndex":1}
-{"date":"2024-03-19T08:45:04.291Z","msg":"Universal tangible hardware","sourceIndex":1}
-{"date":"2024-03-19T10:06:38.623Z","msg":"Self-enabling bifurcated matrix","sourceIndex":2}
-{"date":"2024-03-19T08:50:58.734Z","msg":"Persevering bi-directional orchestration","sourceIndex":0}
-{"date":"2024-03-19T08:45:19.273Z","msg":"Monitored 4th generation orchestration","sourceIndex":1}
-{"date":"2024-03-19T09:45:56.322Z","msg":"Distributed reciprocal ability","sourceIndex":1}
-{"date":"2024-03-19T09:51:27.995Z","msg":"Implemented optimal intranet","sourceIndex":0}
-{"date":"2024-03-19T11:46:49.361Z","msg":"Reactive mobile collaboration","sourceIndex":1}
-{"date":"2024-03-19T19:52:10.774Z","msg":"Secured systemic task-force","sourceIndex":0}
-{"date":"2024-03-19T19:07:21.489Z","msg":"Object-based value-added array","sourceIndex":2}
-{"date":"2024-03-19T17:47:35.615Z","msg":"User-friendly zero defect approach","sourceIndex":1}
-{"date":"2024-03-19T22:48:32.015Z","msg":"Multi-tiered responsive intranet","sourceIndex":1}
-{"date":"2024-03-20T01:07:45.475Z","msg":"Virtual zero administration collaboration","sourceIndex":2}
-{"date":"2024-03-19T23:53:02.611Z","msg":"User-centric systemic protocol","sourceIndex":0}
-{"date":"2024-03-20T01:49:13.345Z","msg":"Switchable explicit challenge","sourceIndex":1}
-{"date":"2024-03-20T09:53:39.911Z","msg":"Enterprise-wide tangible software","sourceIndex":0}
-{"date":"2024-03-20T02:08:00.018Z","msg":"Optional hybrid Graphic Interface","sourceIndex":2}
-{"date":"2024-03-20T08:49:54.799Z","msg":"Open-source secondary function","sourceIndex":1}
-{"date":"2024-03-20T08:08:39.131Z","msg":"Persevering optimizing core","sourceIndex":2}
-{"date":"2024-03-20T08:09:11.661Z","msg":"Customer-focused context-sensitive service-desk","sourceIndex":2}
-{"date":"2024-03-20T13:09:57.545Z","msg":"Progressive bandwidth-monitored collaboration","sourceIndex":2}
-{"date":"2024-03-20T16:50:52.391Z","msg":"Digitized tangible system engine","sourceIndex":1}
-{"date":"2024-03-20T17:54:12.795Z","msg":"Configurable explicit knowledge user","sourceIndex":0}
-{"date":"2024-03-20T13:10:17.410Z","msg":"Customizable scalable knowledge base","sourceIndex":2}
-{"date":"2024-03-20T13:11:16.687Z","msg":"Multi-channelled bi-directional productivity","sourceIndex":2}
-{"date":"2024-03-20T21:11:25.056Z","msg":"Synchronised explicit archive","sourceIndex":2}
-{"date":"2024-03-20T16:51:06.175Z","msg":"Open-architected stable Graphical User Interface","sourceIndex":1}
-{"date":"2024-03-20T23:51:09.036Z","msg":"Up-sized intermediate software","sourceIndex":1}
-{"date":"2024-03-20T21:54:56.339Z","msg":"Fundamental 24 hour firmware","sourceIndex":0}
-{"date":"2024-03-21T02:11:59.110Z","msg":"Focused scalable synergy","sourceIndex":2}
-{"date":"2024-03-21T04:55:22.102Z","msg":"Reverse-engineered transitional solution","sourceIndex":0}
-{"date":"2024-03-21T07:52:01.689Z","msg":"Configurable 5th generation success","sourceIndex":1}
-{"date":"2024-03-03T23:31:15.264Z","msg":"Optimized methodical local area network","sourceIndex":2}
-{"date":"2024-03-21T11:55:46.664Z","msg":"Focused fresh-thinking service-desk","sourceIndex":0}
-{"date":"2024-03-21T09:52:24.424Z","msg":"Horizontal 4th generation forecast","sourceIndex":1}
-{"date":"2024-03-21T16:53:03.734Z","msg":"Devolved stable hierarchy","sourceIndex":1}
-{"date":"2024-03-21T15:13:27.949Z","msg":"Configurable actuating help-desk","sourceIndex":2}
-{"date":"2024-03-21T14:55:55.580Z","msg":"Reactive neutral encoding","sourceIndex":0}
-{"date":"2024-03-21T15:56:26.031Z","msg":"Innovative fresh-thinking Graphic Interface","sourceIndex":0}
-{"date":"2024-03-21T18:14:13.827Z","msg":"Up-sized fresh-thinking core","sourceIndex":2}
-{"date":"2024-03-21T22:56:35.742Z","msg":"Right-sized maximized infrastructure","sourceIndex":0}
-{"date":"2024-03-21T22:53:56.279Z","msg":"Adaptive 24 hour flexibility","sourceIndex":1}
-{"date":"2024-03-21T22:15:04.199Z","msg":"Persistent clear-thinking system engine","sourceIndex":2}
-{"date":"2024-03-22T08:15:46.519Z","msg":"Future-proofed transitional capability","sourceIndex":2}
-{"date":"2024-03-22T00:54:21.491Z","msg":"Vision-oriented static core","sourceIndex":1}
-{"date":"2024-03-22T06:57:25.514Z","msg":"Expanded modular open architecture","sourceIndex":0}
-{"date":"2024-03-22T02:54:49.509Z","msg":"Sharable 4th generation analyzer","sourceIndex":1}
-{"date":"2024-03-22T03:55:21.390Z","msg":"Cross-group multi-state approach","sourceIndex":1}
-{"date":"2024-03-22T11:55:51.165Z","msg":"Team-oriented hybrid customer loyalty","sourceIndex":1}
-{"date":"2024-03-22T06:57:33.238Z","msg":"Business-focused 24 hour framework","sourceIndex":0}
-{"date":"2024-03-22T11:57:53.194Z","msg":"Synchronised actuating website","sourceIndex":0}
-{"date":"2024-03-22T15:16:08.218Z","msg":"Virtual 6th generation matrix","sourceIndex":2}
-{"date":"2024-03-22T19:56:18.303Z","msg":"Distributed actuating artificial intelligence","sourceIndex":1}
-{"date":"2024-03-22T13:58:33.597Z","msg":"Operative solution-oriented neural-net","sourceIndex":0}
-{"date":"2024-03-22T22:58:42.889Z","msg":"Visionary even-keeled neural-net","sourceIndex":0}
-{"date":"2024-03-22T18:16:54.690Z","msg":"Future-proofed static monitoring","sourceIndex":2}
-{"date":"2024-03-22T23:17:51.755Z","msg":"Diverse web-enabled middleware","sourceIndex":2}
-{"date":"2024-03-22T19:56:59.403Z","msg":"Mandatory logistical groupware","sourceIndex":1}
-{"date":"2024-03-22T23:57:15.024Z","msg":"Monitored stable monitoring","sourceIndex":1}
-{"date":"2024-03-23T08:59:39.636Z","msg":"Streamlined system-worthy help-desk","sourceIndex":0}
-{"date":"2024-03-23T02:18:49.868Z","msg":"Object-based local migration","sourceIndex":2}
-{"date":"2024-03-22T23:57:57.135Z","msg":"Distributed dynamic circuit","sourceIndex":1}
-{"date":"2024-03-23T09:58:00.178Z","msg":"Mandatory clear-thinking core","sourceIndex":1}
-{"date":"2024-03-23T04:19:13.176Z","msg":"Optimized fresh-thinking data-warehouse","sourceIndex":2}
-{"date":"2024-03-23T06:19:41.977Z","msg":"Programmable neutral approach","sourceIndex":2}
-{"date":"2024-03-23T11:19:58.487Z","msg":"Cloned solution-oriented productivity","sourceIndex":2}
-{"date":"2024-03-23T14:59:40.389Z","msg":"Reduced zero tolerance methodology","sourceIndex":0}
-{"date":"2024-03-23T09:58:30.918Z","msg":"Decentralized analyzing time-frame","sourceIndex":1}
-{"date":"2024-03-23T10:59:14.305Z","msg":"User-friendly system-worthy pricing structure","sourceIndex":1}
-{"date":"2024-03-23T18:59:15.746Z","msg":"Inverse bandwidth-monitored core","sourceIndex":1}
-{"date":"2024-03-23T19:20:49.530Z","msg":"Extended coherent throughput","sourceIndex":2}
-{"date":"2024-03-24T01:00:31.794Z","msg":"Cross-platform static help-desk","sourceIndex":0}
-{"date":"2024-03-24T03:00:12.258Z","msg":"Multi-tiered transitional groupware","sourceIndex":1}
-{"date":"2024-03-24T03:21:08.103Z","msg":"Customer-focused incremental hub","sourceIndex":2}
-{"date":"2024-03-24T09:01:11.714Z","msg":"Sharable cohesive local area network","sourceIndex":1}
-{"date":"2024-03-24T11:00:32.974Z","msg":"Fundamental intermediate Graphic Interface","sourceIndex":0}
-{"date":"2024-03-24T13:21:33.120Z","msg":"Networked human-resource initiative","sourceIndex":2}
-{"date":"2024-03-24T13:01:57.730Z","msg":"Organic clear-thinking infrastructure","sourceIndex":1}
-{"date":"2024-03-24T21:00:41.917Z","msg":"Compatible directional knowledge user","sourceIndex":0}
-{"date":"2024-03-24T23:02:01.669Z","msg":"Stand-alone executive instruction set","sourceIndex":1}
-{"date":"2024-03-24T22:21:49.095Z","msg":"Down-sized leading edge hierarchy","sourceIndex":2}
-{"date":"2024-03-25T07:00:53.231Z","msg":"Robust bandwidth-monitored alliance","sourceIndex":0}
-{"date":"2024-03-25T07:22:45.461Z","msg":"Customer-focused bandwidth-monitored attitude","sourceIndex":2}
-{"date":"2024-03-25T01:02:44.030Z","msg":"Configurable multi-tasking concept","sourceIndex":1}
-{"date":"2024-03-25T02:03:06.239Z","msg":"Profound leading edge adapter","sourceIndex":1}
-{"date":"2024-03-25T12:04:02.915Z","msg":"Enterprise-wide dynamic archive","sourceIndex":1}
-{"date":"2024-03-25T11:01:36.282Z","msg":"Automated 24/7 encryption","sourceIndex":0}
-{"date":"2024-03-25T16:23:02.636Z","msg":"Polarised even-keeled application","sourceIndex":2}
-{"date":"2024-03-25T20:01:39.796Z","msg":"Multi-lateral logistical archive","sourceIndex":0}
-{"date":"2024-03-25T14:04:41.164Z","msg":"Versatile cohesive artificial intelligence","sourceIndex":1}
-{"date":"2024-03-26T00:05:19.953Z","msg":"Networked contextually-based benchmark","sourceIndex":1}
-{"date":"2024-03-25T18:23:36.858Z","msg":"Programmable bandwidth-monitored solution","sourceIndex":2}
-{"date":"2024-03-25T19:24:29.715Z","msg":"Reverse-engineered heuristic website","sourceIndex":2}
-{"date":"2024-03-25T21:24:55.156Z","msg":"Re-contextualized didactic framework","sourceIndex":2}
-{"date":"2024-03-26T05:01:51.250Z","msg":"Future-proofed executive capability","sourceIndex":0}
-{"date":"2024-03-25T23:25:01.316Z","msg":"Assimilated local system engine","sourceIndex":2}
-{"date":"2024-03-26T03:25:20.443Z","msg":"Synergistic demand-driven matrix","sourceIndex":2}
-{"date":"2024-03-26T04:05:29.161Z","msg":"User-friendly multi-state model","sourceIndex":1}
-{"date":"2024-03-26T05:25:29.182Z","msg":"Cross-platform directional adapter","sourceIndex":2}
-{"date":"2024-03-26T14:06:00.067Z","msg":"Synergistic demand-driven project","sourceIndex":1}
-{"date":"2024-03-26T07:02:49.515Z","msg":"Configurable coherent hardware","sourceIndex":0}
-{"date":"2024-03-26T13:25:44.162Z","msg":"Extended heuristic standardization","sourceIndex":2}
-{"date":"2024-03-26T10:03:06.206Z","msg":"Synchronised eco-centric adapter","sourceIndex":0}
-{"date":"2024-03-26T13:03:26.055Z","msg":"Focused 24 hour hardware","sourceIndex":0}
-{"date":"2024-03-26T22:04:03.039Z","msg":"Function-based uniform internet solution","sourceIndex":0}
-{"date":"2024-03-26T17:26:23.283Z","msg":"Horizontal dynamic capacity","sourceIndex":2}
-{"date":"2024-03-26T16:06:14.460Z","msg":"Cloned eco-centric contingency","sourceIndex":1}
-{"date":"2024-03-26T22:07:08.057Z","msg":"Versatile maximized customer loyalty","sourceIndex":1}
-{"date":"2024-03-26T23:26:56.136Z","msg":"Devolved intangible capability","sourceIndex":2}
-{"date":"2024-03-27T03:04:38.959Z","msg":"Assimilated disintermediate protocol","sourceIndex":0}
-{"date":"2024-03-27T01:08:05.109Z","msg":"Customer-focused static synergy","sourceIndex":1}
-{"date":"2024-03-27T05:27:18.998Z","msg":"Multi-tiered transitional Graphical User Interface","sourceIndex":2}
-{"date":"2024-03-27T10:08:38.696Z","msg":"Advanced optimizing functionalities","sourceIndex":1}
-{"date":"2024-03-27T05:04:57.448Z","msg":"Face to face real-time matrices","sourceIndex":0}
-{"date":"2024-03-27T07:05:53.396Z","msg":"Innovative next generation methodology","sourceIndex":0}
-{"date":"2024-03-27T15:27:59.406Z","msg":"Fully-configurable background service-desk","sourceIndex":2}
-{"date":"2024-03-27T17:06:52.420Z","msg":"Horizontal demand-driven paradigm","sourceIndex":0}
-{"date":"2024-03-27T12:09:01.991Z","msg":"Exclusive composite benchmark","sourceIndex":1}
-{"date":"2024-03-27T16:09:23.583Z","msg":"Distributed didactic toolset","sourceIndex":1}
-{"date":"2024-03-27T16:28:16.744Z","msg":"Face to face empowering info-mediaries","sourceIndex":2}
-{"date":"2024-03-27T18:10:23.558Z","msg":"Sharable background toolset","sourceIndex":1}
-{"date":"2024-03-27T21:29:09.704Z","msg":"Polarised didactic utilisation","sourceIndex":2}
-{"date":"2024-03-27T17:07:24.169Z","msg":"Synergistic 5th generation array","sourceIndex":0}
-{"date":"2024-03-28T00:07:32.144Z","msg":"Seamless zero tolerance policy","sourceIndex":0}
-{"date":"2024-03-27T20:10:28.170Z","msg":"Phased needs-based budgetary management","sourceIndex":1}
-{"date":"2024-03-28T06:11:03.606Z","msg":"Streamlined tertiary secured line","sourceIndex":1}
-{"date":"2024-03-28T05:29:58.456Z","msg":"Open-architected bandwidth-monitored workforce","sourceIndex":2}
-{"date":"2024-03-28T08:08:16.469Z","msg":"Innovative homogeneous throughput","sourceIndex":0}
-{"date":"2024-03-28T15:29:59.542Z","msg":"Reduced 3rd generation application","sourceIndex":2}
-{"date":"2024-03-28T15:11:53.760Z","msg":"Secured 24 hour architecture","sourceIndex":1}
-{"date":"2024-03-28T14:08:18.260Z","msg":"Up-sized 6th generation collaboration","sourceIndex":0}
-{"date":"2024-03-28T22:08:44.963Z","msg":"Configurable high-level attitude","sourceIndex":0}
-{"date":"2024-03-28T16:12:44.688Z","msg":"Persevering non-volatile model","sourceIndex":1}
-{"date":"2024-03-28T20:30:03.831Z","msg":"Progressive foreground software","sourceIndex":2}
-{"date":"2024-03-28T16:13:33.773Z","msg":"Front-line value-added data-warehouse","sourceIndex":1}
-{"date":"2024-03-29T01:14:18.193Z","msg":"Managed grid-enabled productivity","sourceIndex":1}
-{"date":"2024-03-29T01:30:31.210Z","msg":"De-engineered transitional orchestration","sourceIndex":2}
-{"date":"2024-03-28T23:09:32.663Z","msg":"Versatile multi-tasking attitude","sourceIndex":0}
-{"date":"2024-03-29T05:10:29.198Z","msg":"Total clear-thinking emulation","sourceIndex":0}
-{"date":"2024-03-29T08:14:33.554Z","msg":"Multi-tiered human-resource superstructure","sourceIndex":1}
-{"date":"2024-03-29T03:31:12.318Z","msg":"Profit-focused impactful flexibility","sourceIndex":2}
-{"date":"2024-03-29T10:31:24.014Z","msg":"Grass-roots interactive paradigm","sourceIndex":2}
-{"date":"2024-03-29T11:10:47.904Z","msg":"Vision-oriented grid-enabled open architecture","sourceIndex":0}
-{"date":"2024-03-29T12:15:11.668Z","msg":"Multi-channelled impactful initiative","sourceIndex":1}
-{"date":"2024-03-29T11:31:31.254Z","msg":"Profound local encryption","sourceIndex":2}
-{"date":"2024-03-29T16:11:33.471Z","msg":"Progressive global leverage","sourceIndex":0}
-{"date":"2024-03-29T21:32:22.633Z","msg":"User-centric 4th generation ability","sourceIndex":2}
-{"date":"2024-03-29T16:15:30.261Z","msg":"Focused executive implementation","sourceIndex":1}
-{"date":"2024-03-29T17:12:19.457Z","msg":"Ameliorated context-sensitive application","sourceIndex":0}
-{"date":"2024-03-29T17:16:24.292Z","msg":"Organized uniform toolset","sourceIndex":1}
-{"date":"2024-03-30T03:12:19.510Z","msg":"De-engineered assymetric knowledge user","sourceIndex":0}
-{"date":"2024-03-29T19:16:49.867Z","msg":"Customer-focused motivating projection","sourceIndex":1}
-{"date":"2024-03-30T00:17:41.899Z","msg":"Automated intermediate middleware","sourceIndex":1}
-{"date":"2024-03-30T04:32:45.375Z","msg":"Enhanced bifurcated encryption","sourceIndex":2}
-{"date":"2024-03-30T07:18:15.390Z","msg":"Front-line motivating infrastructure","sourceIndex":1}
-{"date":"2024-03-30T04:12:51.624Z","msg":"Proactive motivating artificial intelligence","sourceIndex":0}
-{"date":"2024-03-30T08:13:20.758Z","msg":"Managed systematic workforce","sourceIndex":0}
-{"date":"2024-03-30T06:32:56.224Z","msg":"Re-contextualized foreground secured line","sourceIndex":2}
-{"date":"2024-03-30T13:33:32.654Z","msg":"Pre-emptive interactive complexity","sourceIndex":2}
-{"date":"2024-03-30T12:19:11.705Z","msg":"Customer-focused coherent function","sourceIndex":1}
-{"date":"2024-03-30T12:13:55.172Z","msg":"Re-engineered context-sensitive policy","sourceIndex":0}
-{"date":"2024-03-30T13:14:28.683Z","msg":"Synergized 6th generation middleware","sourceIndex":0}
-{"date":"2024-03-30T21:20:11.265Z","msg":"Open-architected homogeneous groupware","sourceIndex":1}
-{"date":"2024-03-30T22:15:09.021Z","msg":"Synergistic responsive support","sourceIndex":0}
-{"date":"2024-03-30T14:34:31.694Z","msg":"Networked client-server projection","sourceIndex":2}
-{"date":"2024-03-30T19:35:14.992Z","msg":"Universal multi-tasking pricing structure","sourceIndex":2}
-{"date":"2024-03-30T23:35:15.442Z","msg":"Realigned attitude-oriented time-frame","sourceIndex":2}
-{"date":"2024-03-31T02:20:26.016Z","msg":"Intuitive client-driven portal","sourceIndex":1}
-{"date":"2024-03-31T04:16:06.658Z","msg":"Centralized logistical local area network","sourceIndex":0}
-{"date":"2024-03-31T03:35:51.183Z","msg":"Universal systemic throughput","sourceIndex":2}
-{"date":"2024-03-31T09:21:20.359Z","msg":"Reverse-engineered systematic infrastructure","sourceIndex":1}
-{"date":"2024-03-31T09:36:00.092Z","msg":"Profit-focused logistical migration","sourceIndex":2}
-{"date":"2024-03-31T11:16:20.050Z","msg":"Advanced impactful Graphical User Interface","sourceIndex":0}
-{"date":"2024-03-31T17:21:46.086Z","msg":"Vision-oriented zero tolerance customer loyalty","sourceIndex":1}
-{"date":"2024-03-31T10:36:05.400Z","msg":"Profound foreground encryption","sourceIndex":2}
-{"date":"2024-03-31T14:36:49.829Z","msg":"Persevering 24 hour framework","sourceIndex":2}
-{"date":"2024-03-31T13:16:28.295Z","msg":"User-friendly real-time encoding","sourceIndex":0}
-{"date":"2024-03-31T23:16:52.984Z","msg":"Persevering bandwidth-monitored approach","sourceIndex":0}
-{"date":"2024-03-31T21:37:23.620Z","msg":"Implemented impactful groupware","sourceIndex":2}
-{"date":"2024-03-31T19:22:12.830Z","msg":"Devolved intermediate archive","sourceIndex":1}
-{"date":"2024-03-31T23:23:08.815Z","msg":"Monitored radical intranet","sourceIndex":1}
-{"date":"2024-04-01T06:37:58.832Z","msg":"Vision-oriented impactful conglomeration","sourceIndex":2}
-{"date":"2024-04-01T06:17:31.106Z","msg":"Cross-platform high-level moderator","sourceIndex":0}
-{"date":"2024-04-01T05:23:52.167Z","msg":"Profit-focused multi-state productivity","sourceIndex":1}
-{"date":"2024-04-01T11:24:05.866Z","msg":"Polarised grid-enabled paradigm","sourceIndex":1}
-{"date":"2024-04-01T09:17:38.979Z","msg":"Right-sized incremental service-desk","sourceIndex":0}
-{"date":"2024-04-01T12:38:02.444Z","msg":"Stand-alone high-level focus group","sourceIndex":2}
-{"date":"2024-04-01T11:18:13.172Z","msg":"Down-sized solution-oriented challenge","sourceIndex":0}
-{"date":"2024-04-01T16:19:09.982Z","msg":"Automated local service-desk","sourceIndex":0}
-{"date":"2024-04-01T16:24:43.053Z","msg":"Mandatory bifurcated artificial intelligence","sourceIndex":1}
-{"date":"2024-04-01T20:38:54.060Z","msg":"Managed national monitoring","sourceIndex":2}
-{"date":"2024-04-02T02:19:16.078Z","msg":"Programmable web-enabled archive","sourceIndex":0}
-{"date":"2024-04-01T23:25:00.362Z","msg":"Multi-lateral full-range task-force","sourceIndex":1}
-{"date":"2024-04-02T02:39:42.394Z","msg":"Fully-configurable 5th generation encoding","sourceIndex":2}
-{"date":"2024-04-02T04:25:04.561Z","msg":"Extended discrete model","sourceIndex":1}
-{"date":"2024-04-02T11:20:09.864Z","msg":"Cross-platform heuristic structure","sourceIndex":0}
-{"date":"2024-04-02T03:40:21.515Z","msg":"Customer-focused intangible solution","sourceIndex":2}
-{"date":"2024-04-02T11:40:32.075Z","msg":"Virtual fault-tolerant hub","sourceIndex":2}
-{"date":"2024-04-02T06:26:00.429Z","msg":"Customizable directional extranet","sourceIndex":1}
-{"date":"2024-04-02T11:26:34.136Z","msg":"Switchable tertiary project","sourceIndex":1}
-{"date":"2024-04-02T12:20:29.678Z","msg":"Public-key content-based flexibility","sourceIndex":0}
-{"date":"2024-04-02T12:26:58.069Z","msg":"Fundamental tertiary paradigm","sourceIndex":1}
-{"date":"2024-04-02T15:40:41.673Z","msg":"Centralized contextually-based concept","sourceIndex":2}
-{"date":"2024-04-02T14:21:02.539Z","msg":"Customizable motivating project","sourceIndex":0}
-{"date":"2024-04-02T19:27:15.864Z","msg":"Cloned uniform frame","sourceIndex":1}
-{"date":"2024-04-02T15:21:58.604Z","msg":"Automated modular forecast","sourceIndex":0}
-{"date":"2024-04-02T17:22:55.757Z","msg":"Seamless motivating utilisation","sourceIndex":0}
-{"date":"2024-04-02T21:40:42.560Z","msg":"Multi-layered web-enabled system engine","sourceIndex":2}
-{"date":"2024-04-02T22:23:24.755Z","msg":"Advanced scalable array","sourceIndex":0}
-{"date":"2024-04-02T19:27:50.700Z","msg":"Persevering heuristic hardware","sourceIndex":1}
-{"date":"2024-04-03T02:28:32.419Z","msg":"Pre-emptive interactive Graphical User Interface","sourceIndex":1}
-{"date":"2024-04-03T00:41:09.543Z","msg":"Versatile impactful intranet","sourceIndex":2}
-{"date":"2024-04-02T22:23:33.411Z","msg":"Customizable dedicated array","sourceIndex":0}
-{"date":"2024-04-03T01:24:25.392Z","msg":"Horizontal motivating structure","sourceIndex":0}
-{"date":"2024-04-03T02:41:32.890Z","msg":"Optional hybrid groupware","sourceIndex":2}
-{"date":"2024-04-03T04:25:14.040Z","msg":"Function-based zero defect parallelism","sourceIndex":0}
-{"date":"2024-04-03T03:29:08.554Z","msg":"Reduced interactive access","sourceIndex":1}
-{"date":"2024-04-03T04:42:24.844Z","msg":"Object-based hybrid customer loyalty","sourceIndex":2}
-{"date":"2024-04-03T06:29:34.177Z","msg":"Multi-channelled fault-tolerant success","sourceIndex":1}
-{"date":"2024-04-03T09:25:42.272Z","msg":"Secured foreground encoding","sourceIndex":0}
-{"date":"2024-04-03T11:42:30.746Z","msg":"Innovative background protocol","sourceIndex":2}
-{"date":"2024-04-03T13:26:40.012Z","msg":"Streamlined exuding function","sourceIndex":0}
-{"date":"2024-04-03T09:31:17.755Z","msg":"Mandatory 24 hour conglomeration","sourceIndex":1}
-{"date":"2024-04-03T20:32:18.927Z","msg":"Diverse system-worthy open system","sourceIndex":1}
-{"date":"2024-04-03T19:43:30.439Z","msg":"Up-sized eco-centric project","sourceIndex":2}
-{"date":"2024-04-03T11:32:02.310Z","msg":"Extended 5th generation analyzer","sourceIndex":1}
-{"date":"2024-04-03T09:30:31.368Z","msg":"Customer-focused hybrid process improvement","sourceIndex":1}
-{"date":"2024-04-03T15:26:56.778Z","msg":"Ergonomic neutral function","sourceIndex":0}
-{"date":"2024-04-04T01:27:23.274Z","msg":"Optimized system-worthy analyzer","sourceIndex":0}
-{"date":"2024-04-03T21:43:48.299Z","msg":"Grass-roots human-resource Graphical User Interface","sourceIndex":2}
-{"date":"2024-04-04T01:33:08.485Z","msg":"Visionary homogeneous approach","sourceIndex":1}
-{"date":"2024-04-03T23:44:12.620Z","msg":"Universal context-sensitive customer loyalty","sourceIndex":2}
-{"date":"2024-04-04T03:44:38.957Z","msg":"Reactive mobile process improvement","sourceIndex":2}
-{"date":"2024-04-04T09:27:42.726Z","msg":"Enterprise-wide encompassing process improvement","sourceIndex":0}
-{"date":"2024-04-04T06:34:07.113Z","msg":"Down-sized responsive monitoring","sourceIndex":1}
-{"date":"2024-04-04T12:45:00.547Z","msg":"Programmable multi-state moratorium","sourceIndex":2}
-{"date":"2024-04-04T12:35:03.016Z","msg":"Vision-oriented bandwidth-monitored extranet","sourceIndex":1}
-{"date":"2024-04-04T11:27:52.251Z","msg":"Fundamental homogeneous ability","sourceIndex":0}
-{"date":"2024-04-04T12:28:46.888Z","msg":"Managed global collaboration","sourceIndex":0}
-{"date":"2024-04-04T20:29:14.674Z","msg":"Digitized motivating concept","sourceIndex":0}
-{"date":"2024-04-04T17:35:17.901Z","msg":"Enterprise-wide 4th generation instruction set","sourceIndex":1}
-{"date":"2024-04-04T19:45:27.446Z","msg":"Sharable methodical neural-net","sourceIndex":2}
-{"date":"2024-04-04T19:36:14.183Z","msg":"Persistent bi-directional matrix","sourceIndex":1}
-{"date":"2024-04-04T21:36:42.036Z","msg":"Extended responsive frame","sourceIndex":1}
-{"date":"2024-04-04T20:46:18.257Z","msg":"Integrated object-oriented product","sourceIndex":2}
-{"date":"2024-04-05T03:30:09.781Z","msg":"Switchable scalable workforce","sourceIndex":0}
-{"date":"2024-04-05T01:46:57.605Z","msg":"Down-sized client-server open architecture","sourceIndex":2}
-{"date":"2024-04-05T01:36:56.750Z","msg":"Monitored upward-trending product","sourceIndex":1}
-{"date":"2024-04-05T08:37:08.329Z","msg":"Optimized responsive projection","sourceIndex":1}
-{"date":"2024-04-05T05:47:09.772Z","msg":"Innovative zero defect projection","sourceIndex":2}
-{"date":"2024-04-05T04:30:48.274Z","msg":"De-engineered discrete collaboration","sourceIndex":0}
-{"date":"2024-04-05T11:31:03.944Z","msg":"Re-engineered 6th generation implementation","sourceIndex":0}
-{"date":"2024-04-05T08:48:09.300Z","msg":"Ergonomic asynchronous core","sourceIndex":2}
-{"date":"2024-04-05T16:37:45.879Z","msg":"Advanced local encoding","sourceIndex":1}
-{"date":"2024-04-05T12:49:04.382Z","msg":"Expanded hybrid installation","sourceIndex":2}
-{"date":"2024-04-05T19:31:59.633Z","msg":"Progressive even-keeled structure","sourceIndex":0}
-{"date":"2024-04-05T16:49:44.778Z","msg":"Expanded incremental function","sourceIndex":2}
-{"date":"2024-04-05T16:38:43.041Z","msg":"Face to face mobile neural-net","sourceIndex":1}
-{"date":"2024-04-05T17:39:42.678Z","msg":"Fundamental stable paradigm","sourceIndex":1}
-{"date":"2024-04-05T19:50:02.548Z","msg":"Realigned intermediate intranet","sourceIndex":2}
-{"date":"2024-04-06T01:39:54.363Z","msg":"Business-focused empowering definition","sourceIndex":1}
-{"date":"2024-04-06T01:32:09.931Z","msg":"Diverse zero tolerance extranet","sourceIndex":0}
-{"date":"2024-04-06T01:50:34.241Z","msg":"Pre-emptive impactful middleware","sourceIndex":2}
-{"date":"2024-04-06T01:32:55.510Z","msg":"Synergized tangible local area network","sourceIndex":0}
-{"date":"2024-04-06T09:33:31.447Z","msg":"Future-proofed modular budgetary management","sourceIndex":0}
-{"date":"2024-04-06T08:40:33.061Z","msg":"Programmable modular capacity","sourceIndex":1}
-{"date":"2024-04-06T05:51:16.599Z","msg":"Centralized background matrices","sourceIndex":2}
-{"date":"2024-04-06T13:52:12.794Z","msg":"Synergistic cohesive moderator","sourceIndex":2}
-{"date":"2024-04-06T10:40:49.243Z","msg":"Ergonomic 5th generation time-frame","sourceIndex":1}
-{"date":"2024-04-06T15:34:00.781Z","msg":"Seamless clear-thinking collaboration","sourceIndex":0}
-{"date":"2024-04-06T11:41:30.980Z","msg":"Sharable secondary architecture","sourceIndex":1}
-{"date":"2024-04-06T21:42:09.095Z","msg":"Streamlined hybrid access","sourceIndex":1}
-{"date":"2024-04-06T14:52:37.546Z","msg":"Operative mobile groupware","sourceIndex":2}
-{"date":"2024-04-06T18:53:14.349Z","msg":"Configurable foreground benchmark","sourceIndex":2}
-{"date":"2024-04-06T21:34:49.238Z","msg":"Centralized foreground Graphic Interface","sourceIndex":0}
-{"date":"2024-04-06T23:53:27.542Z","msg":"Expanded 24/7 moratorium","sourceIndex":2}
-{"date":"2024-04-06T22:35:01.775Z","msg":"Virtual value-added success","sourceIndex":0}
-{"date":"2024-04-07T04:43:07.472Z","msg":"Future-proofed well-modulated software","sourceIndex":1}
-{"date":"2024-04-07T02:35:13.981Z","msg":"Devolved incremental matrices","sourceIndex":0}
-{"date":"2024-03-21T11:12:51.929Z","msg":"Multi-tiered context-sensitive projection","sourceIndex":2}
-{"date":"2024-04-07T07:54:01.452Z","msg":"Balanced interactive hub","sourceIndex":2}
-{"date":"2024-04-07T03:35:17.066Z","msg":"Total 3rd generation knowledge user","sourceIndex":0}
-{"date":"2024-04-07T06:36:08.457Z","msg":"Reactive cohesive groupware","sourceIndex":0}
-{"date":"2024-04-07T11:43:58.165Z","msg":"Focused well-modulated benchmark","sourceIndex":1}
-{"date":"2024-04-07T10:37:05.433Z","msg":"Reactive clear-thinking encryption","sourceIndex":0}
-{"date":"2024-04-07T07:54:34.732Z","msg":"Diverse coherent internet solution","sourceIndex":2}
-{"date":"2024-04-07T15:55:02.495Z","msg":"Operative radical initiative","sourceIndex":2}
-{"date":"2024-04-07T20:37:32.084Z","msg":"Exclusive interactive time-frame","sourceIndex":0}
-{"date":"2024-04-07T13:44:08.433Z","msg":"Mandatory grid-enabled time-frame","sourceIndex":1}
-{"date":"2024-04-07T16:44:56.060Z","msg":"Assimilated global synergy","sourceIndex":1}
-{"date":"2024-04-07T18:55:29.356Z","msg":"User-friendly assymetric knowledge base","sourceIndex":2}
-{"date":"2024-04-07T23:45:37.101Z","msg":"Phased fresh-thinking extranet","sourceIndex":1}
-{"date":"2024-04-08T02:56:20.357Z","msg":"Public-key client-server structure","sourceIndex":2}
-{"date":"2024-04-08T00:38:04.073Z","msg":"Decentralized secondary groupware","sourceIndex":0}
-{"date":"2024-04-08T04:45:50.748Z","msg":"Function-based mission-critical superstructure","sourceIndex":1}
-{"date":"2024-04-08T07:38:26.463Z","msg":"Fundamental systemic monitoring","sourceIndex":0}
-{"date":"2024-04-08T09:57:01.951Z","msg":"Fully-configurable 5th generation complexity","sourceIndex":2}
-{"date":"2024-04-08T09:46:01.853Z","msg":"Synergistic bottom-line interface","sourceIndex":1}
-{"date":"2024-04-08T09:38:52.172Z","msg":"Open-source optimizing benchmark","sourceIndex":0}
-{"date":"2024-04-08T19:39:46.007Z","msg":"Vision-oriented eco-centric concept","sourceIndex":0}
-{"date":"2024-04-08T19:46:53.046Z","msg":"Reactive zero defect support","sourceIndex":1}
-{"date":"2024-04-08T09:57:44.165Z","msg":"Customer-focused 4th generation methodology","sourceIndex":2}
-{"date":"2024-04-08T10:58:14.027Z","msg":"Enterprise-wide empowering strategy","sourceIndex":2}
-{"date":"2024-04-08T13:58:23.173Z","msg":"Realigned client-driven algorithm","sourceIndex":2}
-{"date":"2024-04-08T18:58:39.248Z","msg":"Organized uniform workforce","sourceIndex":2}
-{"date":"2024-04-08T18:58:49.584Z","msg":"Reactive exuding alliance","sourceIndex":2}
-{"date":"2024-04-08T20:58:59.241Z","msg":"Re-contextualized user-facing neural-net","sourceIndex":2}
-{"date":"2024-04-09T00:39:54.454Z","msg":"Team-oriented background emulation","sourceIndex":0}
-{"date":"2024-04-08T22:46:53.292Z","msg":"Synergistic uniform product","sourceIndex":1}
-{"date":"2024-04-08T22:59:49.886Z","msg":"Devolved empowering moratorium","sourceIndex":2}
-{"date":"2024-04-09T01:47:14.188Z","msg":"Universal web-enabled focus group","sourceIndex":1}
-{"date":"2024-04-09T04:00:10.506Z","msg":"Devolved composite policy","sourceIndex":2}
-{"date":"2024-04-09T08:40:35.387Z","msg":"Versatile next generation firmware","sourceIndex":0}
-{"date":"2024-04-09T11:47:40.890Z","msg":"Persevering national ability","sourceIndex":1}
-{"date":"2024-04-09T12:00:47.917Z","msg":"Customizable systematic capacity","sourceIndex":2}
-{"date":"2024-04-09T14:41:16.878Z","msg":"Switchable disintermediate superstructure","sourceIndex":0}
-{"date":"2024-04-09T15:47:51.325Z","msg":"Automated logistical policy","sourceIndex":1}
-{"date":"2024-04-09T15:01:22.602Z","msg":"User-centric executive definition","sourceIndex":2}
-{"date":"2024-04-09T15:42:13.976Z","msg":"Automated needs-based installation","sourceIndex":0}
-{"date":"2024-04-09T17:01:50.398Z","msg":"Extended global architecture","sourceIndex":2}
-{"date":"2024-04-10T01:42:44.129Z","msg":"Realigned non-volatile adapter","sourceIndex":0}
-{"date":"2024-04-09T17:48:47.911Z","msg":"Cloned user-facing secured line","sourceIndex":1}
-{"date":"2024-04-10T02:02:18.457Z","msg":"Ameliorated modular process improvement","sourceIndex":2}
-{"date":"2024-04-09T19:49:30.278Z","msg":"Phased holistic knowledge base","sourceIndex":1}
-{"date":"2024-04-10T05:50:24.412Z","msg":"Digitized 5th generation methodology","sourceIndex":1}
-{"date":"2024-04-10T11:43:16.008Z","msg":"Progressive stable orchestration","sourceIndex":0}
-{"date":"2024-04-10T10:02:21.887Z","msg":"Operative analyzing frame","sourceIndex":2}
-{"date":"2024-04-10T13:50:28.339Z","msg":"Object-based analyzing matrix","sourceIndex":1}
-{"date":"2024-04-10T20:02:46.879Z","msg":"Up-sized holistic artificial intelligence","sourceIndex":2}
-{"date":"2024-04-10T15:43:47.960Z","msg":"Stand-alone mission-critical migration","sourceIndex":0}
-{"date":"2024-04-10T16:50:32.319Z","msg":"User-centric real-time service-desk","sourceIndex":1}
-{"date":"2024-04-10T20:44:36.230Z","msg":"Persevering incremental help-desk","sourceIndex":0}
-{"date":"2024-04-10T16:51:14.710Z","msg":"Public-key dedicated collaboration","sourceIndex":1}
-{"date":"2024-04-11T02:51:58.208Z","msg":"Multi-layered holistic superstructure","sourceIndex":1}
-{"date":"2024-04-10T22:03:07.021Z","msg":"Multi-layered incremental superstructure","sourceIndex":2}
-{"date":"2024-04-11T05:44:43.764Z","msg":"Multi-lateral zero administration archive","sourceIndex":0}
-{"date":"2024-04-11T02:03:21.198Z","msg":"Persistent logistical encoding","sourceIndex":2}
-{"date":"2024-04-11T11:04:10.553Z","msg":"Multi-lateral 6th generation initiative","sourceIndex":2}
-{"date":"2024-04-11T02:52:55.955Z","msg":"Synergistic transitional architecture","sourceIndex":1}
-{"date":"2024-04-11T07:53:30.022Z","msg":"Fully-configurable needs-based Graphical User Interface","sourceIndex":1}
-{"date":"2024-04-11T12:45:20.320Z","msg":"Expanded eco-centric collaboration","sourceIndex":0}
-{"date":"2024-04-11T11:54:03.906Z","msg":"Ameliorated global interface","sourceIndex":1}
-{"date":"2024-04-11T15:05:01.610Z","msg":"Digitized 6th generation benchmark","sourceIndex":2}
-{"date":"2024-04-11T16:55:03.368Z","msg":"Upgradable value-added protocol","sourceIndex":1}
-{"date":"2024-04-11T12:46:19.854Z","msg":"Streamlined even-keeled support","sourceIndex":0}
-{"date":"2024-04-11T19:46:53.139Z","msg":"Team-oriented foreground monitoring","sourceIndex":0}
-{"date":"2024-04-12T00:05:11.669Z","msg":"Customizable system-worthy extranet","sourceIndex":2}
-{"date":"2024-04-12T01:55:39.243Z","msg":"Proactive solution-oriented parallelism","sourceIndex":1}
-{"date":"2024-04-12T05:47:51.853Z","msg":"Centralized fault-tolerant knowledge base","sourceIndex":0}
-{"date":"2024-04-12T10:06:00.354Z","msg":"Organized client-driven protocol","sourceIndex":2}
-{"date":"2024-04-12T05:56:09.629Z","msg":"Synergized zero defect process improvement","sourceIndex":1}
-{"date":"2024-04-12T05:48:15.626Z","msg":"Down-sized heuristic contingency","sourceIndex":0}
-{"date":"2024-04-12T11:48:38.875Z","msg":"Organic assymetric projection","sourceIndex":0}
-{"date":"2024-04-12T13:56:34.980Z","msg":"Advanced fault-tolerant strategy","sourceIndex":1}
-{"date":"2024-04-12T18:06:59.670Z","msg":"Centralized value-added migration","sourceIndex":2}
-{"date":"2024-04-12T15:48:38.936Z","msg":"Organic 24/7 frame","sourceIndex":0}
-{"date":"2024-04-12T22:57:17.030Z","msg":"Persevering bi-directional extranet","sourceIndex":1}
-{"date":"2024-04-13T01:49:27.514Z","msg":"Multi-channelled stable open architecture","sourceIndex":0}
-{"date":"2024-04-13T02:07:10.534Z","msg":"Front-line reciprocal model","sourceIndex":2}
-{"date":"2024-04-13T00:58:02.707Z","msg":"Streamlined high-level orchestration","sourceIndex":1}
-{"date":"2024-04-13T09:58:10.535Z","msg":"Phased hybrid extranet","sourceIndex":1}
-{"date":"2024-04-13T09:49:53.701Z","msg":"Seamless stable knowledge user","sourceIndex":0}
-{"date":"2024-04-13T07:07:17.308Z","msg":"Streamlined bifurcated neural-net","sourceIndex":2}
-{"date":"2024-04-13T10:08:15.035Z","msg":"Secured fault-tolerant matrix","sourceIndex":2}
-{"date":"2024-04-13T09:50:10.793Z","msg":"Realigned needs-based customer loyalty","sourceIndex":0}
-{"date":"2024-04-13T11:50:39.497Z","msg":"Inverse bi-directional process improvement","sourceIndex":0}
-{"date":"2024-04-13T09:58:12.080Z","msg":"Future-proofed bandwidth-monitored internet solution","sourceIndex":1}
-{"date":"2024-04-13T13:59:03.049Z","msg":"Synergized executive collaboration","sourceIndex":1}
-{"date":"2024-04-13T11:09:09.758Z","msg":"Open-architected 3rd generation synergy","sourceIndex":2}
-{"date":"2024-04-13T20:09:27.459Z","msg":"Devolved actuating knowledge base","sourceIndex":2}
-{"date":"2024-04-13T13:50:43.827Z","msg":"Profit-focused system-worthy intranet","sourceIndex":0}
-{"date":"2024-04-13T15:51:08.982Z","msg":"Vision-oriented clear-thinking task-force","sourceIndex":0}
-{"date":"2024-04-13T21:59:42.723Z","msg":"User-centric client-driven matrices","sourceIndex":1}
-{"date":"2024-04-13T18:51:14.139Z","msg":"Cross-group high-level moratorium","sourceIndex":0}
-{"date":"2024-04-14T04:52:09.297Z","msg":"Face to face real-time service-desk","sourceIndex":0}
-{"date":"2024-04-13T23:09:56.930Z","msg":"Cross-group executive help-desk","sourceIndex":2}
-{"date":"2024-04-13T22:59:47.870Z","msg":"Automated discrete complexity","sourceIndex":1}
-{"date":"2024-04-14T03:59:56.225Z","msg":"Inverse dynamic circuit","sourceIndex":1}
-{"date":"2024-04-14T05:10:47.829Z","msg":"Reverse-engineered coherent model","sourceIndex":2}
-{"date":"2024-04-14T05:00:19.388Z","msg":"Persevering uniform access","sourceIndex":1}
-{"date":"2024-04-14T14:52:23.182Z","msg":"Optimized zero tolerance installation","sourceIndex":0}
-{"date":"2024-04-14T13:00:19.963Z","msg":"Fundamental bottom-line application","sourceIndex":1}
-{"date":"2024-04-14T06:11:21.433Z","msg":"Cloned exuding process improvement","sourceIndex":2}
-{"date":"2024-04-14T13:11:59.127Z","msg":"Re-engineered high-level synergy","sourceIndex":2}
-{"date":"2024-04-14T15:00:58.428Z","msg":"Future-proofed fresh-thinking process improvement","sourceIndex":1}
-{"date":"2024-04-14T17:12:23.045Z","msg":"Mandatory 6th generation productivity","sourceIndex":2}
-{"date":"2024-04-14T15:53:15.005Z","msg":"Pre-emptive secondary superstructure","sourceIndex":0}
-{"date":"2024-04-14T20:01:44.891Z","msg":"Optional 24/7 service-desk","sourceIndex":1}
-{"date":"2024-04-15T01:53:35.356Z","msg":"Switchable fresh-thinking database","sourceIndex":0}
-{"date":"2024-04-14T21:13:10.206Z","msg":"Triple-buffered mission-critical moderator","sourceIndex":2}
-{"date":"2024-04-15T01:02:06.886Z","msg":"User-friendly client-driven synergy","sourceIndex":1}
-{"date":"2024-04-15T01:13:49.209Z","msg":"Secured executive workforce","sourceIndex":2}
-{"date":"2024-04-15T02:02:42.884Z","msg":"Distributed next generation implementation","sourceIndex":1}
-{"date":"2024-04-15T03:14:03.784Z","msg":"Sharable clear-thinking instruction set","sourceIndex":2}
-{"date":"2024-04-15T02:54:25.285Z","msg":"Multi-layered static moderator","sourceIndex":0}
-{"date":"2024-04-15T02:03:41.359Z","msg":"Proactive tertiary database","sourceIndex":1}
-{"date":"2024-04-15T11:04:23.620Z","msg":"Public-key global collaboration","sourceIndex":1}
-{"date":"2024-04-15T03:54:45.645Z","msg":"Secured actuating solution","sourceIndex":0}
-{"date":"2024-04-15T09:14:38.163Z","msg":"Future-proofed contextually-based function","sourceIndex":2}
-{"date":"2024-04-15T11:54:55.606Z","msg":"User-friendly context-sensitive support","sourceIndex":0}
-{"date":"2024-04-15T18:14:49.573Z","msg":"Balanced incremental forecast","sourceIndex":2}
-{"date":"2024-04-15T16:05:13.472Z","msg":"Team-oriented well-modulated service-desk","sourceIndex":1}
-{"date":"2024-04-15T18:55:41.028Z","msg":"Stand-alone explicit artificial intelligence","sourceIndex":0}
-{"date":"2024-04-16T01:05:22.957Z","msg":"Future-proofed regional strategy","sourceIndex":1}
-{"date":"2024-04-15T23:15:20.578Z","msg":"Fundamental solution-oriented firmware","sourceIndex":2}
-{"date":"2024-04-15T23:56:17.251Z","msg":"Versatile homogeneous productivity","sourceIndex":0}
-{"date":"2024-04-16T01:16:10.893Z","msg":"Secured homogeneous adapter","sourceIndex":2}
-{"date":"2024-04-16T04:56:28.501Z","msg":"Advanced mobile encoding","sourceIndex":0}
-{"date":"2024-04-16T04:05:58.341Z","msg":"Automated high-level support","sourceIndex":1}
-{"date":"2024-04-16T06:16:41.757Z","msg":"Function-based cohesive time-frame","sourceIndex":2}
-{"date":"2024-04-16T08:06:33.133Z","msg":"Visionary bottom-line matrix","sourceIndex":1}
-{"date":"2024-04-16T13:57:03.634Z","msg":"Sharable multi-tasking knowledge base","sourceIndex":0}
-{"date":"2024-04-16T13:17:25.091Z","msg":"Inverse intangible local area network","sourceIndex":2}
-{"date":"2024-04-16T14:07:07.977Z","msg":"Digitized mobile data-warehouse","sourceIndex":1}
-{"date":"2024-04-16T14:18:22.092Z","msg":"Horizontal system-worthy complexity","sourceIndex":2}
-{"date":"2024-04-16T17:57:39.322Z","msg":"Diverse high-level open system","sourceIndex":0}
-{"date":"2024-04-17T00:07:45.605Z","msg":"Adaptive 3rd generation ability","sourceIndex":1}
-{"date":"2024-04-16T19:19:21.434Z","msg":"Fundamental foreground strategy","sourceIndex":2}
-{"date":"2024-04-17T02:58:20.018Z","msg":"Persistent scalable info-mediaries","sourceIndex":0}
-{"date":"2024-04-17T05:19:40.734Z","msg":"Progressive static protocol","sourceIndex":2}
-{"date":"2024-04-17T08:08:24.274Z","msg":"Secured mission-critical matrix","sourceIndex":1}
-{"date":"2024-04-17T08:58:50.959Z","msg":"Expanded tertiary internet solution","sourceIndex":0}
-{"date":"2024-04-17T15:19:46.882Z","msg":"Reactive object-oriented installation","sourceIndex":2}
-{"date":"2024-04-17T17:09:08.757Z","msg":"Decentralized even-keeled function","sourceIndex":1}
-{"date":"2024-04-17T13:59:47.860Z","msg":"Right-sized directional initiative","sourceIndex":0}
-{"date":"2024-04-17T23:59:53.359Z","msg":"Seamless static workforce","sourceIndex":0}
-{"date":"2024-04-17T19:19:51.619Z","msg":"Pre-emptive context-sensitive service-desk","sourceIndex":2}
-{"date":"2024-04-18T03:09:59.634Z","msg":"Devolved mission-critical focus group","sourceIndex":1}
-{"date":"2024-04-17T21:20:26.786Z","msg":"Secured incremental initiative","sourceIndex":2}
-{"date":"2024-04-18T06:20:28.192Z","msg":"Organic content-based conglomeration","sourceIndex":2}
-{"date":"2024-04-18T10:00:44.094Z","msg":"Visionary tertiary projection","sourceIndex":0}
-{"date":"2024-04-18T05:10:58.031Z","msg":"Fundamental optimal policy","sourceIndex":1}
-{"date":"2024-04-18T14:11:34.556Z","msg":"Vision-oriented zero administration hub","sourceIndex":1}
-{"date":"2024-04-18T07:21:13.802Z","msg":"Persistent mobile matrix","sourceIndex":2}
-{"date":"2024-04-18T15:21:53.611Z","msg":"Multi-tiered fresh-thinking synergy","sourceIndex":2}
-{"date":"2024-04-18T12:01:03.052Z","msg":"Adaptive 4th generation Graphic Interface","sourceIndex":0}
-{"date":"2024-04-18T14:02:01.559Z","msg":"Enhanced methodical concept","sourceIndex":0}
-{"date":"2024-04-18T19:02:49.177Z","msg":"Horizontal eco-centric flexibility","sourceIndex":0}
-{"date":"2024-04-18T14:12:17.641Z","msg":"De-engineered 6th generation moderator","sourceIndex":1}
-{"date":"2024-04-18T23:13:04.911Z","msg":"Up-sized neutral data-warehouse","sourceIndex":1}
-{"date":"2024-04-18T21:22:20.631Z","msg":"Cross-platform analyzing emulation","sourceIndex":2}
-{"date":"2024-04-18T19:03:43.736Z","msg":"Triple-buffered attitude-oriented definition","sourceIndex":0}
-{"date":"2024-04-18T23:03:47.091Z","msg":"Multi-tiered multi-state concept","sourceIndex":0}
-{"date":"2024-04-19T02:22:25.670Z","msg":"User-friendly impactful budgetary management","sourceIndex":2}
-{"date":"2024-04-19T01:14:01.131Z","msg":"Grass-roots maximized hierarchy","sourceIndex":1}
-{"date":"2024-04-19T04:14:44.181Z","msg":"Persevering next generation concept","sourceIndex":1}
-{"date":"2024-04-19T12:23:21.596Z","msg":"Robust solution-oriented artificial intelligence","sourceIndex":2}
-{"date":"2024-04-19T13:15:38.384Z","msg":"Multi-tiered uniform model","sourceIndex":1}
-{"date":"2024-04-19T06:04:17.848Z","msg":"Progressive discrete moratorium","sourceIndex":0}
-{"date":"2024-04-19T14:04:39.230Z","msg":"Reverse-engineered contextually-based capability","sourceIndex":0}
-{"date":"2024-04-19T22:24:16.293Z","msg":"Reactive optimizing implementation","sourceIndex":2}
-{"date":"2024-04-19T18:16:03.474Z","msg":"Versatile systemic local area network","sourceIndex":1}
-{"date":"2024-04-19T18:05:32.141Z","msg":"User-centric foreground functionalities","sourceIndex":0}
-{"date":"2024-04-20T04:06:23.833Z","msg":"User-centric discrete secured line","sourceIndex":0}
-{"date":"2024-04-19T21:16:25.581Z","msg":"Business-focused directional installation","sourceIndex":1}
-{"date":"2024-04-19T23:16:32.190Z","msg":"Cloned needs-based local area network","sourceIndex":1}
-{"date":"2024-04-19T22:24:49.770Z","msg":"Enhanced zero defect ability","sourceIndex":2}
-{"date":"2024-04-20T03:25:14.977Z","msg":"Profit-focused modular matrix","sourceIndex":2}
-{"date":"2024-04-20T03:17:18.013Z","msg":"Open-architected multi-tasking time-frame","sourceIndex":1}
-{"date":"2024-04-20T12:25:21.405Z","msg":"Horizontal directional methodology","sourceIndex":2}
-{"date":"2024-04-20T12:07:13.738Z","msg":"Reactive exuding algorithm","sourceIndex":0}
-{"date":"2024-04-20T12:18:03.761Z","msg":"Public-key disintermediate middleware","sourceIndex":1}
-{"date":"2024-04-20T16:07:28.923Z","msg":"Proactive context-sensitive firmware","sourceIndex":0}
-{"date":"2024-04-20T19:18:11.428Z","msg":"User-friendly value-added attitude","sourceIndex":1}
-{"date":"2024-04-20T20:25:36.231Z","msg":"Persevering neutral capacity","sourceIndex":2}
-{"date":"2024-04-20T20:07:29.036Z","msg":"Front-line directional process improvement","sourceIndex":0}
-{"date":"2024-04-21T00:18:46.435Z","msg":"Profound clear-thinking knowledge user","sourceIndex":1}
-{"date":"2024-04-21T04:08:07.203Z","msg":"Face to face assymetric artificial intelligence","sourceIndex":0}
-{"date":"2024-04-21T06:25:53.789Z","msg":"Organic multi-state task-force","sourceIndex":2}
-{"date":"2024-04-21T06:18:47.083Z","msg":"Synergized motivating migration","sourceIndex":1}
-{"date":"2024-04-20T10:17:33.181Z","msg":"Multi-lateral clear-thinking hierarchy","sourceIndex":1}
-{"date":"2024-04-21T13:08:11.415Z","msg":"Multi-layered bottom-line flexibility","sourceIndex":0}
-{"date":"2024-04-21T15:18:57.794Z","msg":"Streamlined maximized interface","sourceIndex":1}
-{"date":"2024-04-21T13:26:28.672Z","msg":"Optimized uniform collaboration","sourceIndex":2}
-{"date":"2024-04-21T16:08:26.897Z","msg":"Progressive high-level approach","sourceIndex":0}
-{"date":"2024-04-21T16:19:05.773Z","msg":"Automated client-server methodology","sourceIndex":1}
-{"date":"2024-04-21T16:19:21.877Z","msg":"Balanced object-oriented process improvement","sourceIndex":1}
-{"date":"2024-04-07T00:53:49.961Z","msg":"Enhanced fresh-thinking benchmark","sourceIndex":2}
-{"date":"2024-03-14T20:43:06.166Z","msg":"Operative assymetric adapter","sourceIndex":0}
-{"date":"2024-03-14T17:35:02.220Z","msg":"Organized transitional internet solution","sourceIndex":1}
+{"date":"2024-03-02T04:48:16.647Z","msg":"Switchable systematic concept","sourceIndex":1}
+{"date":"2024-02-22T06:50:56.015Z","msg":"Operative full-range circuit","sourceIndex":2}
+{"date":"2024-02-22T09:51:39.257Z","msg":"Diverse explicit middleware","sourceIndex":2}
+{"date":"2024-02-22T09:52:04.081Z","msg":"Profound bifurcated firmware","sourceIndex":2}
+{"date":"2024-02-22T11:53:00.704Z","msg":"Customer-focused exuding internet solution","sourceIndex":2}
+{"date":"2024-02-22T13:53:52.870Z","msg":"Focused responsive artificial intelligence","sourceIndex":2}
+{"date":"2024-02-22T14:54:02.888Z","msg":"Devolved systematic alliance","sourceIndex":2}
+{"date":"2024-02-22T17:54:44.001Z","msg":"Distributed static Graphic Interface","sourceIndex":2}
+{"date":"2024-02-22T18:55:00.956Z","msg":"Open-source transitional info-mediaries","sourceIndex":2}
+{"date":"2024-02-22T20:55:36.294Z","msg":"Stand-alone optimal customer loyalty","sourceIndex":2}
+{"date":"2024-02-23T03:55:51.079Z","msg":"Seamless global definition","sourceIndex":2}
+{"date":"2024-02-23T12:56:26.087Z","msg":"Virtual neutral orchestration","sourceIndex":2}
+{"date":"2024-02-23T22:56:33.201Z","msg":"Versatile bottom-line array","sourceIndex":2}
+{"date":"2024-02-24T02:57:32.317Z","msg":"Managed system-worthy encryption","sourceIndex":2}
+{"date":"2024-02-24T03:57:47.541Z","msg":"Sharable multi-state leverage","sourceIndex":2}
+{"date":"2024-02-21T23:49:03.084Z","msg":"Visionary bandwidth-monitored open architecture","sourceIndex":2}
+{"date":"2024-03-04T04:48:56.771Z","msg":"Open-architected asynchronous architecture","sourceIndex":0}
+{"date":"2024-02-22T03:49:59.046Z","msg":"Ameliorated bifurcated paradigm","sourceIndex":2}
+{"date":"2024-02-24T06:57:47.973Z","msg":"Multi-channelled needs-based open architecture","sourceIndex":2}
+{"date":"2024-02-24T07:58:06.516Z","msg":"Balanced incremental local area network","sourceIndex":2}
+{"date":"2024-02-24T09:58:25.413Z","msg":"Reduced high-level middleware","sourceIndex":2}
+{"date":"2024-02-24T17:59:08.240Z","msg":"Visionary stable project","sourceIndex":2}
+{"date":"2024-02-24T17:59:28.897Z","msg":"Team-oriented transitional installation","sourceIndex":2}
+{"date":"2024-02-25T03:00:22.099Z","msg":"Reverse-engineered content-based strategy","sourceIndex":2}
+{"date":"2024-02-25T05:00:48.642Z","msg":"Distributed uniform implementation","sourceIndex":2}
+{"date":"2024-02-25T13:02:00.093Z","msg":"Ameliorated value-added synergy","sourceIndex":2}
+{"date":"2024-02-25T18:03:32.388Z","msg":"Reduced regional structure","sourceIndex":2}
+{"date":"2024-02-25T11:01:16.049Z","msg":"Versatile bifurcated paradigm","sourceIndex":2}
+{"date":"2024-02-26T08:05:15.322Z","msg":"Sharable motivating knowledge base","sourceIndex":2}
+{"date":"2024-02-26T02:04:32.087Z","msg":"Stand-alone grid-enabled middleware","sourceIndex":2}
+{"date":"2024-02-25T02:00:18.942Z","msg":"Fully-configurable heuristic moderator","sourceIndex":2}
+{"date":"2024-02-26T14:06:09.892Z","msg":"Business-focused 3rd generation toolset","sourceIndex":2}
+{"date":"2024-02-26T21:06:17.366Z","msg":"Ameliorated radical model","sourceIndex":2}
+{"date":"2024-02-27T01:06:52.595Z","msg":"Sharable context-sensitive data-warehouse","sourceIndex":2}
+{"date":"2024-02-27T03:07:46.089Z","msg":"Inverse zero tolerance hub","sourceIndex":2}
+{"date":"2024-02-27T04:08:29.424Z","msg":"Quality-focused explicit orchestration","sourceIndex":2}
+{"date":"2024-02-27T10:09:10.135Z","msg":"Virtual regional matrices","sourceIndex":2}
+{"date":"2024-02-26T13:05:37.070Z","msg":"Multi-tiered modular moderator","sourceIndex":2}
+{"date":"2024-02-27T22:10:12.092Z","msg":"Multi-layered leading edge local area network","sourceIndex":2}
+{"date":"2024-02-27T22:10:27.218Z","msg":"Triple-buffered holistic middleware","sourceIndex":2}
+{"date":"2024-02-28T01:10:37.385Z","msg":"Sharable optimal parallelism","sourceIndex":2}
+{"date":"2024-02-28T11:11:21.563Z","msg":"Mandatory intangible website","sourceIndex":2}
+{"date":"2024-02-25T17:02:47.199Z","msg":"Profit-focused heuristic success","sourceIndex":2}
+{"date":"2024-02-27T20:09:16.842Z","msg":"Balanced background architecture","sourceIndex":2}
+{"date":"2024-02-28T19:12:39.498Z","msg":"Managed incremental strategy","sourceIndex":2}
+{"date":"2024-02-29T00:12:54.147Z","msg":"Fully-configurable cohesive application","sourceIndex":2}
+{"date":"2024-02-29T08:13:31.218Z","msg":"Organized logistical forecast","sourceIndex":2}
+{"date":"2024-02-29T16:13:59.890Z","msg":"Decentralized holistic toolset","sourceIndex":2}
+{"date":"2024-02-29T22:14:17.017Z","msg":"Universal foreground methodology","sourceIndex":2}
+{"date":"2024-03-01T01:15:06.353Z","msg":"Multi-layered incremental functionalities","sourceIndex":2}
+{"date":"2024-03-01T03:15:24.893Z","msg":"Polarised next generation moratorium","sourceIndex":2}
+{"date":"2024-03-01T06:15:38.665Z","msg":"Devolved radical artificial intelligence","sourceIndex":2}
+{"date":"2024-03-01T13:16:17.718Z","msg":"Configurable solution-oriented function","sourceIndex":2}
+{"date":"2024-03-01T15:16:42.274Z","msg":"Versatile holistic analyzer","sourceIndex":2}
+{"date":"2024-03-01T22:17:23.071Z","msg":"Balanced radical challenge","sourceIndex":2}
+{"date":"2024-03-02T02:18:04.050Z","msg":"Compatible non-volatile support","sourceIndex":2}
+{"date":"2024-03-02T02:18:16.456Z","msg":"Vision-oriented multi-state moratorium","sourceIndex":2}
+{"date":"2024-03-02T09:18:52.307Z","msg":"Secured maximized complexity","sourceIndex":2}
+{"date":"2024-03-02T12:48:40.617Z","msg":"Assimilated 6th generation hub","sourceIndex":1}
+{"date":"2024-03-02T12:19:33.313Z","msg":"Front-line content-based capability","sourceIndex":2}
+{"date":"2024-02-26T12:05:33.883Z","msg":"Advanced eco-centric superstructure","sourceIndex":2}
+{"date":"2024-03-02T20:19:52.493Z","msg":"Secured 6th generation moratorium","sourceIndex":2}
+{"date":"2024-03-02T14:49:07.082Z","msg":"Open-architected well-modulated middleware","sourceIndex":1}
+{"date":"2024-02-28T11:11:55.457Z","msg":"Progressive eco-centric array","sourceIndex":2}
+{"date":"2024-03-02T22:20:17.490Z","msg":"Synergistic holistic encoding","sourceIndex":2}
+{"date":"2024-03-03T07:20:20.131Z","msg":"Integrated intangible archive","sourceIndex":2}
+{"date":"2024-03-03T02:50:06.280Z","msg":"Fundamental radical software","sourceIndex":1}
+{"date":"2024-03-03T09:50:55.372Z","msg":"Self-enabling assymetric moderator","sourceIndex":1}
+{"date":"2024-03-03T16:20:57.613Z","msg":"Open-architected encompassing hierarchy","sourceIndex":2}
+{"date":"2024-03-03T13:51:34.272Z","msg":"Cross-platform well-modulated data-warehouse","sourceIndex":1}
+{"date":"2024-02-28T17:12:06.909Z","msg":"Operative 6th generation help-desk","sourceIndex":2}
+{"date":"2024-03-03T04:50:28.646Z","msg":"Up-sized cohesive challenge","sourceIndex":1}
+{"date":"2024-03-04T02:21:05.789Z","msg":"Re-contextualized analyzing hub","sourceIndex":2}
+{"date":"2024-03-04T02:52:34.555Z","msg":"Seamless reciprocal database","sourceIndex":1}
+{"date":"2024-03-04T11:21:55.211Z","msg":"Realigned optimal challenge","sourceIndex":2}
+{"date":"2024-03-02T17:49:09.581Z","msg":"Focused tangible structure","sourceIndex":1}
+{"date":"2024-03-03T16:51:40.777Z","msg":"Implemented analyzing approach","sourceIndex":1}
+{"date":"2024-03-04T14:49:02.446Z","msg":"Vision-oriented uniform process improvement","sourceIndex":0}
+{"date":"2024-03-04T12:53:32.738Z","msg":"Managed mobile approach","sourceIndex":1}
+{"date":"2024-03-04T13:21:59.320Z","msg":"Self-enabling real-time application","sourceIndex":2}
+{"date":"2024-03-04T16:53:46.235Z","msg":"Profit-focused web-enabled customer loyalty","sourceIndex":1}
+{"date":"2024-03-04T16:22:14.555Z","msg":"Profit-focused maximized complexity","sourceIndex":2}
+{"date":"2024-03-04T14:49:28.642Z","msg":"Enterprise-wide encompassing structure","sourceIndex":0}
+{"date":"2024-03-04T23:22:54.761Z","msg":"Devolved logistical firmware","sourceIndex":2}
+{"date":"2024-03-04T03:53:18.769Z","msg":"Future-proofed multimedia structure","sourceIndex":1}
+{"date":"2024-03-05T04:50:00.847Z","msg":"Enhanced web-enabled workforce","sourceIndex":0}
+{"date":"2024-03-05T03:54:48.086Z","msg":"Re-engineered intangible complexity","sourceIndex":1}
+{"date":"2024-03-05T06:23:39.758Z","msg":"Vision-oriented optimizing support","sourceIndex":2}
+{"date":"2024-03-04T18:49:46.759Z","msg":"Cross-platform clear-thinking help-desk","sourceIndex":0}
+{"date":"2024-03-05T14:50:31.994Z","msg":"Up-sized 5th generation hardware","sourceIndex":0}
+{"date":"2024-03-05T09:24:15.947Z","msg":"Quality-focused directional methodology","sourceIndex":2}
+{"date":"2024-03-05T17:24:55.805Z","msg":"Phased composite array","sourceIndex":2}
+{"date":"2024-03-05T17:55:41.675Z","msg":"Adaptive uniform flexibility","sourceIndex":1}
+{"date":"2024-03-05T23:51:28.365Z","msg":"Versatile 3rd generation methodology","sourceIndex":0}
+{"date":"2024-03-05T21:25:12.141Z","msg":"Digitized methodical circuit","sourceIndex":2}
+{"date":"2024-03-05T17:56:36.115Z","msg":"Multi-layered 24 hour service-desk","sourceIndex":1}
+{"date":"2024-03-06T00:57:22.621Z","msg":"Horizontal coherent paradigm","sourceIndex":1}
+{"date":"2024-03-05T11:55:08.436Z","msg":"Versatile tangible installation","sourceIndex":1}
+{"date":"2024-03-05T22:26:03.927Z","msg":"Automated systematic architecture","sourceIndex":2}
+{"date":"2024-03-04T07:53:21.063Z","msg":"Multi-layered multimedia extranet","sourceIndex":1}
+{"date":"2024-03-05T21:25:23.371Z","msg":"Triple-buffered user-facing orchestration","sourceIndex":2}
+{"date":"2024-03-06T09:52:16.099Z","msg":"Ameliorated zero defect challenge","sourceIndex":0}
+{"date":"2024-03-06T09:58:12.717Z","msg":"Public-key local initiative","sourceIndex":1}
+{"date":"2024-03-06T00:51:47.393Z","msg":"Monitored holistic data-warehouse","sourceIndex":0}
+{"date":"2024-03-06T14:52:59.219Z","msg":"Open-architected logistical orchestration","sourceIndex":0}
+{"date":"2024-03-06T02:26:08.654Z","msg":"Digitized foreground strategy","sourceIndex":2}
+{"date":"2024-03-06T13:59:10.921Z","msg":"Operative interactive functionalities","sourceIndex":1}
+{"date":"2024-03-06T12:26:19.974Z","msg":"Integrated executive parallelism","sourceIndex":2}
+{"date":"2024-03-06T14:53:01.769Z","msg":"Organic tangible attitude","sourceIndex":0}
+{"date":"2024-03-06T20:53:43.062Z","msg":"Up-sized incremental instruction set","sourceIndex":0}
+{"date":"2024-03-04T22:53:57.180Z","msg":"Distributed transitional hierarchy","sourceIndex":1}
+{"date":"2024-03-07T03:00:27.617Z","msg":"Persevering intermediate interface","sourceIndex":1}
+{"date":"2024-03-06T21:27:31.109Z","msg":"Compatible non-volatile local area network","sourceIndex":2}
+{"date":"2024-03-06T23:53:59.266Z","msg":"Exclusive needs-based leverage","sourceIndex":0}
+{"date":"2024-03-07T06:28:16.601Z","msg":"Right-sized asynchronous knowledge user","sourceIndex":2}
+{"date":"2024-03-07T07:54:28.853Z","msg":"Reverse-engineered web-enabled projection","sourceIndex":0}
+{"date":"2024-03-06T16:59:26.692Z","msg":"Multi-tiered well-modulated hierarchy","sourceIndex":1}
+{"date":"2024-03-07T07:29:06.371Z","msg":"Visionary next generation projection","sourceIndex":2}
+{"date":"2024-03-06T20:00:01.993Z","msg":"Object-based 24 hour open system","sourceIndex":1}
+{"date":"2024-03-07T09:55:13.747Z","msg":"Universal uniform focus group","sourceIndex":0}
+{"date":"2024-03-07T14:02:14.131Z","msg":"Object-based directional instruction set","sourceIndex":1}
+{"date":"2024-03-07T11:30:05.894Z","msg":"Distributed well-modulated matrix","sourceIndex":2}
+{"date":"2024-03-07T09:01:18.027Z","msg":"Sharable neutral project","sourceIndex":1}
+{"date":"2024-03-07T19:30:42.890Z","msg":"Inverse bifurcated groupware","sourceIndex":2}
+{"date":"2024-03-06T20:26:56.812Z","msg":"De-engineered grid-enabled emulation","sourceIndex":2}
+{"date":"2024-03-07T19:03:43.772Z","msg":"Horizontal solution-oriented forecast","sourceIndex":1}
+{"date":"2024-03-07T19:31:00.741Z","msg":"Visionary executive utilisation","sourceIndex":2}
+{"date":"2024-03-08T00:31:23.899Z","msg":"Phased dynamic contingency","sourceIndex":2}
+{"date":"2024-03-07T21:04:12.077Z","msg":"Organized encompassing local area network","sourceIndex":1}
+{"date":"2024-03-07T21:55:59.072Z","msg":"Integrated system-worthy knowledge base","sourceIndex":0}
+{"date":"2024-03-08T05:56:04.830Z","msg":"Integrated user-facing implementation","sourceIndex":0}
+{"date":"2024-03-07T23:04:19.310Z","msg":"Fully-configurable mobile budgetary management","sourceIndex":1}
+{"date":"2024-03-07T19:55:41.841Z","msg":"Innovative discrete open system","sourceIndex":0}
+{"date":"2024-03-07T18:03:13.965Z","msg":"Future-proofed multi-tasking superstructure","sourceIndex":1}
+{"date":"2024-03-08T09:04:38.168Z","msg":"Focused encompassing structure","sourceIndex":1}
+{"date":"2024-03-08T02:31:26.363Z","msg":"Stand-alone composite policy","sourceIndex":2}
+{"date":"2024-03-08T05:32:06.496Z","msg":"Open-architected leading edge info-mediaries","sourceIndex":2}
+{"date":"2024-03-08T11:32:07.911Z","msg":"Reactive modular local area network","sourceIndex":2}
+{"date":"2024-03-08T10:56:53.031Z","msg":"De-engineered interactive process improvement","sourceIndex":0}
+{"date":"2024-03-08T16:05:04.616Z","msg":"Focused assymetric protocol","sourceIndex":1}
+{"date":"2024-03-08T10:57:38.902Z","msg":"Quality-focused next generation attitude","sourceIndex":0}
+{"date":"2024-03-08T18:57:46.966Z","msg":"User-centric multi-tasking help-desk","sourceIndex":0}
+{"date":"2024-03-08T21:33:04.754Z","msg":"Robust clear-thinking support","sourceIndex":2}
+{"date":"2024-03-08T16:05:43.392Z","msg":"Decentralized optimal process improvement","sourceIndex":1}
+{"date":"2024-03-08T23:58:04.370Z","msg":"Visionary multi-state open architecture","sourceIndex":0}
+{"date":"2024-03-09T01:58:59.366Z","msg":"Proactive regional instruction set","sourceIndex":0}
+{"date":"2024-03-09T00:05:52.378Z","msg":"Cloned mission-critical capacity","sourceIndex":1}
+{"date":"2024-03-09T02:33:29.972Z","msg":"Compatible intangible moratorium","sourceIndex":2}
+{"date":"2024-03-09T02:06:17.499Z","msg":"Public-key contextually-based secured line","sourceIndex":1}
+{"date":"2024-03-09T02:07:05.954Z","msg":"Proactive attitude-oriented policy","sourceIndex":1}
+{"date":"2024-03-09T02:59:29.500Z","msg":"Realigned value-added infrastructure","sourceIndex":0}
+{"date":"2024-03-09T16:07:20.220Z","msg":"Focused full-range knowledge base","sourceIndex":1}
+{"date":"2024-03-09T17:00:58.628Z","msg":"Multi-lateral methodical groupware","sourceIndex":0}
+{"date":"2024-03-09T13:00:10.391Z","msg":"Expanded impactful strategy","sourceIndex":0}
+{"date":"2024-03-09T07:07:16.456Z","msg":"Ameliorated contextually-based concept","sourceIndex":1}
+{"date":"2024-03-09T07:34:23.860Z","msg":"Down-sized human-resource strategy","sourceIndex":2}
+{"date":"2024-03-10T00:07:55.558Z","msg":"Synchronised context-sensitive policy","sourceIndex":1}
+{"date":"2024-03-09T17:01:54.091Z","msg":"Balanced 24 hour local area network","sourceIndex":0}
+{"date":"2024-03-09T17:35:07.556Z","msg":"Implemented context-sensitive project","sourceIndex":2}
+{"date":"2024-03-10T01:35:13.142Z","msg":"Reactive modular capacity","sourceIndex":2}
+{"date":"2024-03-10T07:35:32.109Z","msg":"Multi-channelled zero tolerance archive","sourceIndex":2}
+{"date":"2024-03-10T02:08:23.264Z","msg":"Optimized real-time capability","sourceIndex":1}
+{"date":"2024-03-10T09:03:07.282Z","msg":"De-engineered assymetric frame","sourceIndex":0}
+{"date":"2024-03-10T09:09:02.332Z","msg":"Upgradable needs-based hub","sourceIndex":1}
+{"date":"2024-03-10T08:36:42.499Z","msg":"Horizontal didactic time-frame","sourceIndex":2}
+{"date":"2024-03-10T07:36:16.052Z","msg":"Up-sized composite leverage","sourceIndex":2}
+{"date":"2024-03-10T12:37:44.946Z","msg":"Pre-emptive directional circuit","sourceIndex":2}
+{"date":"2024-03-10T08:37:38.991Z","msg":"Adaptive object-oriented customer loyalty","sourceIndex":2}
+{"date":"2024-03-10T18:09:03.174Z","msg":"Balanced real-time product","sourceIndex":1}
+{"date":"2024-03-09T18:35:10.270Z","msg":"Networked regional frame","sourceIndex":2}
+{"date":"2024-03-10T18:38:07.340Z","msg":"Business-focused radical service-desk","sourceIndex":2}
+{"date":"2024-03-10T18:03:49.128Z","msg":"Configurable content-based capacity","sourceIndex":0}
+{"date":"2024-03-10T14:03:13.542Z","msg":"Function-based clear-thinking service-desk","sourceIndex":0}
+{"date":"2024-03-10T21:03:49.933Z","msg":"Multi-channelled regional interface","sourceIndex":0}
+{"date":"2024-03-11T02:39:11.134Z","msg":"Streamlined incremental open architecture","sourceIndex":2}
+{"date":"2024-03-11T00:09:45.114Z","msg":"Automated logistical functionalities","sourceIndex":1}
+{"date":"2024-03-10T19:38:32.794Z","msg":"Sharable foreground archive","sourceIndex":2}
+{"date":"2024-03-11T01:05:27.509Z","msg":"Business-focused stable alliance","sourceIndex":0}
+{"date":"2024-03-11T08:06:04.275Z","msg":"Pre-emptive multimedia hub","sourceIndex":0}
+{"date":"2024-03-11T10:10:00.433Z","msg":"Compatible bottom-line leverage","sourceIndex":1}
+{"date":"2024-03-11T05:40:05.699Z","msg":"Optional 24/7 hierarchy","sourceIndex":2}
+{"date":"2024-03-10T04:02:49.380Z","msg":"Managed radical budgetary management","sourceIndex":0}
+{"date":"2024-03-11T17:40:50.017Z","msg":"Realigned secondary intranet","sourceIndex":2}
+{"date":"2024-03-11T08:40:37.860Z","msg":"Implemented grid-enabled software","sourceIndex":2}
+{"date":"2024-03-09T22:02:12.895Z","msg":"Stand-alone neutral capability","sourceIndex":0}
+{"date":"2024-03-11T18:07:40.268Z","msg":"Object-based global portal","sourceIndex":0}
+{"date":"2024-03-11T10:07:02.801Z","msg":"Customizable leading edge toolset","sourceIndex":0}
+{"date":"2024-03-10T21:04:28.070Z","msg":"Up-sized 4th generation task-force","sourceIndex":0}
+{"date":"2024-03-11T19:10:10.775Z","msg":"Function-based eco-centric functionalities","sourceIndex":1}
+{"date":"2024-03-11T20:41:34.759Z","msg":"Fully-configurable uniform toolset","sourceIndex":2}
+{"date":"2024-03-12T03:10:46.736Z","msg":"Programmable mobile moratorium","sourceIndex":1}
+{"date":"2024-03-12T06:11:00.835Z","msg":"Cross-group composite utilisation","sourceIndex":1}
+{"date":"2024-03-11T22:07:56.128Z","msg":"Re-contextualized motivating superstructure","sourceIndex":0}
+{"date":"2024-03-12T04:42:10.024Z","msg":"Open-source bifurcated utilisation","sourceIndex":2}
+{"date":"2024-03-12T04:08:47.384Z","msg":"Fully-configurable system-worthy access","sourceIndex":0}
+{"date":"2024-03-12T11:43:07.737Z","msg":"Pre-emptive real-time task-force","sourceIndex":2}
+{"date":"2024-03-12T11:11:34.182Z","msg":"Total content-based Graphical User Interface","sourceIndex":1}
+{"date":"2024-03-12T15:10:34.086Z","msg":"Enterprise-wide secondary product","sourceIndex":0}
+{"date":"2024-03-12T20:11:38.109Z","msg":"Horizontal zero administration portal","sourceIndex":1}
+{"date":"2024-03-12T11:43:44.336Z","msg":"Progressive 4th generation software","sourceIndex":2}
+{"date":"2024-03-12T12:44:27.374Z","msg":"Diverse client-driven architecture","sourceIndex":2}
+{"date":"2024-03-12T23:11:30.779Z","msg":"Polarised intermediate ability","sourceIndex":0}
+{"date":"2024-03-12T16:11:19.410Z","msg":"Total encompassing function","sourceIndex":0}
+{"date":"2024-03-12T22:44:39.433Z","msg":"Front-line 5th generation circuit","sourceIndex":2}
+{"date":"2024-03-13T08:12:17.751Z","msg":"Diverse maximized benchmark","sourceIndex":0}
+{"date":"2024-03-13T07:45:14.618Z","msg":"Mandatory zero defect middleware","sourceIndex":2}
+{"date":"2024-03-13T15:13:15.978Z","msg":"Profit-focused well-modulated benchmark","sourceIndex":1}
+{"date":"2024-03-13T16:45:42.910Z","msg":"Enhanced homogeneous portal","sourceIndex":2}
+{"date":"2024-03-12T10:09:43.270Z","msg":"Fully-configurable dedicated encryption","sourceIndex":0}
+{"date":"2024-03-13T05:12:25.571Z","msg":"Integrated global strategy","sourceIndex":1}
+{"date":"2024-03-13T23:14:02.149Z","msg":"Expanded bifurcated task-force","sourceIndex":1}
+{"date":"2024-03-13T23:13:27.162Z","msg":"Balanced full-range paradigm","sourceIndex":0}
+{"date":"2024-03-13T15:12:47.785Z","msg":"Reduced dynamic parallelism","sourceIndex":0}
+{"date":"2024-03-14T00:14:46.875Z","msg":"Synchronised radical protocol","sourceIndex":1}
+{"date":"2024-03-14T01:14:55.566Z","msg":"Front-line systematic local area network","sourceIndex":1}
+{"date":"2024-03-14T05:15:24.439Z","msg":"Innovative local knowledge base","sourceIndex":1}
+{"date":"2024-03-14T09:14:04.179Z","msg":"Public-key 24/7 pricing structure","sourceIndex":0}
+{"date":"2024-03-14T07:46:52.258Z","msg":"Enterprise-wide local project","sourceIndex":2}
+{"date":"2024-03-14T02:13:41.286Z","msg":"Self-enabling system-worthy website","sourceIndex":0}
+{"date":"2024-03-13T23:46:10.553Z","msg":"Cross-platform human-resource access","sourceIndex":2}
+{"date":"2024-03-14T03:46:45.322Z","msg":"Organic web-enabled circuit","sourceIndex":2}
+{"date":"2024-03-14T07:47:01.010Z","msg":"Distributed discrete software","sourceIndex":2}
+{"date":"2024-03-14T11:14:05.395Z","msg":"Reverse-engineered systemic orchestration","sourceIndex":0}
+{"date":"2024-03-14T19:14:15.847Z","msg":"Adaptive bottom-line moderator","sourceIndex":0}
+{"date":"2024-03-14T21:48:36.415Z","msg":"Cloned local benchmark","sourceIndex":2}
+{"date":"2024-03-15T00:16:36.451Z","msg":"Enhanced composite service-desk","sourceIndex":1}
+{"date":"2024-03-14T21:14:28.631Z","msg":"Digitized mission-critical extranet","sourceIndex":0}
+{"date":"2024-03-14T23:49:12.344Z","msg":"Versatile methodical intranet","sourceIndex":2}
+{"date":"2024-03-14T23:15:17.531Z","msg":"Self-enabling background analyzer","sourceIndex":0}
+{"date":"2024-03-15T09:16:01.180Z","msg":"Phased radical focus group","sourceIndex":0}
+{"date":"2024-03-15T08:49:27.866Z","msg":"Adaptive systematic contingency","sourceIndex":2}
+{"date":"2024-03-14T15:16:01.617Z","msg":"Realigned full-range protocol","sourceIndex":1}
+{"date":"2024-03-15T08:16:53.359Z","msg":"Open-architected optimizing application","sourceIndex":1}
+{"date":"2024-03-15T01:16:44.583Z","msg":"Compatible bottom-line approach","sourceIndex":1}
+{"date":"2024-03-14T15:47:45.222Z","msg":"Vision-oriented directional contingency","sourceIndex":2}
+{"date":"2024-03-15T18:50:57.211Z","msg":"Networked cohesive strategy","sourceIndex":2}
+{"date":"2024-03-15T10:17:37.864Z","msg":"Inverse contextually-based internet solution","sourceIndex":1}
+{"date":"2024-03-15T18:16:31.289Z","msg":"Digitized content-based data-warehouse","sourceIndex":0}
+{"date":"2024-03-15T08:50:01.732Z","msg":"Re-contextualized systematic definition","sourceIndex":2}
+{"date":"2024-03-15T23:16:32.453Z","msg":"Advanced clear-thinking application","sourceIndex":0}
+{"date":"2024-03-16T00:51:55.050Z","msg":"Centralized well-modulated task-force","sourceIndex":2}
+{"date":"2024-03-15T20:18:07.177Z","msg":"Multi-tiered explicit concept","sourceIndex":1}
+{"date":"2024-03-15T21:18:18.968Z","msg":"Diverse value-added alliance","sourceIndex":1}
+{"date":"2024-03-15T22:18:57.547Z","msg":"Intuitive scalable toolset","sourceIndex":1}
+{"date":"2024-03-16T04:19:09.241Z","msg":"Optimized executive utilisation","sourceIndex":1}
+{"date":"2024-03-16T00:16:54.109Z","msg":"Advanced regional Graphical User Interface","sourceIndex":0}
+{"date":"2024-03-16T02:17:52.287Z","msg":"Advanced client-driven local area network","sourceIndex":0}
+{"date":"2024-03-14T10:14:04.683Z","msg":"Sharable tangible time-frame","sourceIndex":0}
+{"date":"2024-03-15T14:16:15.122Z","msg":"Managed 6th generation installation","sourceIndex":0}
+{"date":"2024-03-16T02:18:05.105Z","msg":"Configurable reciprocal definition","sourceIndex":0}
+{"date":"2024-03-16T03:18:38.392Z","msg":"Integrated scalable instruction set","sourceIndex":0}
+{"date":"2024-03-16T04:18:43.310Z","msg":"Public-key empowering neural-net","sourceIndex":0}
+{"date":"2024-03-16T11:19:29.394Z","msg":"Multi-tiered global protocol","sourceIndex":0}
+{"date":"2024-03-16T07:19:24.820Z","msg":"Compatible exuding service-desk","sourceIndex":1}
+{"date":"2024-03-16T10:19:59.517Z","msg":"Exclusive system-worthy matrices","sourceIndex":1}
+{"date":"2024-03-16T13:54:20.857Z","msg":"Managed maximized knowledge user","sourceIndex":2}
+{"date":"2024-03-16T16:20:36.477Z","msg":"Ameliorated attitude-oriented installation","sourceIndex":1}
+{"date":"2024-03-16T15:20:17.556Z","msg":"Reduced radical moderator","sourceIndex":0}
+{"date":"2024-03-16T15:55:07.711Z","msg":"Re-engineered 4th generation project","sourceIndex":2}
+{"date":"2024-03-16T21:21:00.677Z","msg":"Right-sized fault-tolerant Graphic Interface","sourceIndex":0}
+{"date":"2024-03-16T19:55:56.539Z","msg":"Stand-alone background core","sourceIndex":2}
+{"date":"2024-03-17T02:56:14.258Z","msg":"Grass-roots context-sensitive ability","sourceIndex":2}
+{"date":"2024-03-16T21:21:20.156Z","msg":"Organic global leverage","sourceIndex":1}
+{"date":"2024-03-17T05:21:53.467Z","msg":"Team-oriented static algorithm","sourceIndex":0}
+{"date":"2024-03-17T07:21:51.017Z","msg":"Persistent client-server policy","sourceIndex":1}
+{"date":"2024-03-17T07:56:29.831Z","msg":"Visionary grid-enabled strategy","sourceIndex":2}
+{"date":"2024-03-17T07:22:35.178Z","msg":"Team-oriented logistical budgetary management","sourceIndex":0}
+{"date":"2024-03-16T01:52:50.090Z","msg":"Multi-layered high-level budgetary management","sourceIndex":2}
+{"date":"2024-03-15T20:17:48.406Z","msg":"Customer-focused 3rd generation orchestration","sourceIndex":1}
+{"date":"2024-03-17T09:23:30.744Z","msg":"Multi-tiered uniform firmware","sourceIndex":0}
+{"date":"2024-03-17T06:22:23.209Z","msg":"Quality-focused grid-enabled Graphic Interface","sourceIndex":0}
+{"date":"2024-03-17T16:56:44.243Z","msg":"Proactive leading edge archive","sourceIndex":2}
+{"date":"2024-03-17T22:23:05.201Z","msg":"Expanded stable focus group","sourceIndex":1}
+{"date":"2024-03-16T08:53:33.462Z","msg":"Configurable next generation hierarchy","sourceIndex":2}
+{"date":"2024-03-17T19:24:22.632Z","msg":"Switchable dedicated alliance","sourceIndex":0}
+{"date":"2024-03-17T20:25:03.097Z","msg":"Fundamental national functionalities","sourceIndex":0}
+{"date":"2024-03-18T01:25:07.737Z","msg":"Grass-roots optimal initiative","sourceIndex":0}
+{"date":"2024-03-17T20:58:16.664Z","msg":"Organized tertiary artificial intelligence","sourceIndex":2}
+{"date":"2024-03-18T06:58:28.043Z","msg":"Multi-lateral upward-trending focus group","sourceIndex":2}
+{"date":"2024-03-18T01:23:49.067Z","msg":"Extended methodical knowledge base","sourceIndex":1}
+{"date":"2024-03-18T08:24:47.842Z","msg":"Re-contextualized static paradigm","sourceIndex":1}
+{"date":"2024-03-18T02:26:03.871Z","msg":"Programmable encompassing synergy","sourceIndex":0}
+{"date":"2024-03-18T03:26:38.479Z","msg":"Vision-oriented regional support","sourceIndex":0}
+{"date":"2024-03-18T11:27:01.539Z","msg":"Team-oriented optimizing artificial intelligence","sourceIndex":0}
+{"date":"2024-03-17T16:22:43.969Z","msg":"Seamless bi-directional throughput","sourceIndex":1}
+{"date":"2024-03-17T15:22:06.457Z","msg":"Public-key holistic framework","sourceIndex":1}
+{"date":"2024-03-18T19:27:02.089Z","msg":"Persistent contextually-based focus group","sourceIndex":0}
+{"date":"2024-03-18T19:59:16.034Z","msg":"Reverse-engineered full-range encryption","sourceIndex":2}
+{"date":"2024-03-18T17:25:46.944Z","msg":"De-engineered object-oriented implementation","sourceIndex":1}
+{"date":"2024-03-19T00:26:25.252Z","msg":"Automated 24 hour archive","sourceIndex":1}
+{"date":"2024-03-19T04:27:40.444Z","msg":"Focused bottom-line support","sourceIndex":0}
+{"date":"2024-03-19T04:00:02.439Z","msg":"Face to face disintermediate local area network","sourceIndex":2}
+{"date":"2024-03-19T06:27:11.744Z","msg":"Public-key executive synergy","sourceIndex":1}
+{"date":"2024-03-19T11:00:19.504Z","msg":"De-engineered directional internet solution","sourceIndex":2}
+{"date":"2024-03-19T04:28:33.063Z","msg":"Multi-layered holistic groupware","sourceIndex":0}
+{"date":"2024-03-19T04:28:57.179Z","msg":"Mandatory didactic circuit","sourceIndex":0}
+{"date":"2024-03-19T09:29:35.351Z","msg":"Digitized zero defect toolset","sourceIndex":0}
+{"date":"2024-03-19T07:28:01.199Z","msg":"Future-proofed encompassing installation","sourceIndex":1}
+{"date":"2024-03-19T10:30:00.332Z","msg":"Distributed discrete protocol","sourceIndex":0}
+{"date":"2024-03-19T16:28:32.064Z","msg":"Inverse leading edge portal","sourceIndex":1}
+{"date":"2024-03-19T14:00:48.448Z","msg":"Programmable next generation policy","sourceIndex":2}
+{"date":"2024-03-19T13:30:20.897Z","msg":"Configurable regional superstructure","sourceIndex":0}
+{"date":"2024-03-18T17:25:29.705Z","msg":"Function-based actuating orchestration","sourceIndex":1}
+{"date":"2024-03-19T18:31:03.056Z","msg":"Monitored client-server toolset","sourceIndex":0}
+{"date":"2024-03-19T22:01:01.101Z","msg":"Persevering value-added info-mediaries","sourceIndex":2}
+{"date":"2024-03-19T18:29:31.036Z","msg":"Exclusive national monitoring","sourceIndex":1}
+{"date":"2024-03-17T20:57:18.325Z","msg":"Phased tertiary neural-net","sourceIndex":2}
+{"date":"2024-03-18T13:58:50.511Z","msg":"Assimilated client-server matrices","sourceIndex":2}
+{"date":"2024-03-19T20:30:25.943Z","msg":"Cloned intangible superstructure","sourceIndex":1}
+{"date":"2024-03-20T02:33:17.340Z","msg":"Robust maximized protocol","sourceIndex":0}
+{"date":"2024-03-20T08:01:45.857Z","msg":"Distributed systemic orchestration","sourceIndex":2}
+{"date":"2024-03-19T23:31:01.651Z","msg":"Customizable foreground initiative","sourceIndex":1}
+{"date":"2024-03-19T18:31:57.162Z","msg":"Right-sized background approach","sourceIndex":0}
+{"date":"2024-03-19T18:30:17.369Z","msg":"Synergistic stable initiative","sourceIndex":1}
+{"date":"2024-03-19T18:32:51.146Z","msg":"Cross-group didactic website","sourceIndex":0}
+{"date":"2024-03-20T14:32:15.276Z","msg":"Synchronised object-oriented capability","sourceIndex":1}
+{"date":"2024-03-20T08:31:42.727Z","msg":"Synergized zero defect adapter","sourceIndex":1}
+{"date":"2024-03-20T16:01:47.594Z","msg":"Organic non-volatile intranet","sourceIndex":2}
+{"date":"2024-03-20T08:33:47.167Z","msg":"Right-sized solution-oriented synergy","sourceIndex":0}
+{"date":"2024-03-20T20:32:59.400Z","msg":"Versatile 6th generation hierarchy","sourceIndex":1}
+{"date":"2024-03-20T16:34:25.132Z","msg":"Up-sized needs-based database","sourceIndex":0}
+{"date":"2024-03-21T02:35:26.988Z","msg":"Polarised interactive capacity","sourceIndex":0}
+{"date":"2024-03-20T16:34:48.905Z","msg":"Open-architected stable database","sourceIndex":0}
+{"date":"2024-03-21T09:34:09.141Z","msg":"Decentralized fresh-thinking alliance","sourceIndex":1}
+{"date":"2024-03-21T09:36:02.127Z","msg":"Diverse discrete artificial intelligence","sourceIndex":0}
+{"date":"2024-03-21T08:02:42.357Z","msg":"Up-sized logistical contingency","sourceIndex":2}
+{"date":"2024-03-21T12:34:38.280Z","msg":"Open-architected bi-directional encoding","sourceIndex":1}
+{"date":"2024-03-21T16:03:28.364Z","msg":"Secured reciprocal product","sourceIndex":2}
+{"date":"2024-03-21T14:37:01.527Z","msg":"Decentralized upward-trending hierarchy","sourceIndex":0}
+{"date":"2024-03-21T17:35:07.210Z","msg":"Synchronised tangible customer loyalty","sourceIndex":1}
+{"date":"2024-03-21T16:37:03.902Z","msg":"Cross-platform fault-tolerant complexity","sourceIndex":0}
+{"date":"2024-03-21T20:03:51.325Z","msg":"Integrated cohesive pricing structure","sourceIndex":2}
+{"date":"2024-03-21T18:35:27.545Z","msg":"Universal 4th generation artificial intelligence","sourceIndex":1}
+{"date":"2024-03-21T23:37:26.638Z","msg":"Multi-channelled non-volatile software","sourceIndex":0}
+{"date":"2024-03-21T21:36:03.264Z","msg":"Face to face intermediate instruction set","sourceIndex":1}
+{"date":"2024-03-22T03:04:06.754Z","msg":"Automated discrete extranet","sourceIndex":2}
+{"date":"2024-03-22T05:36:26.734Z","msg":"Monitored explicit knowledge user","sourceIndex":1}
+{"date":"2024-03-21T23:37:46.538Z","msg":"Secured maximized synergy","sourceIndex":0}
+{"date":"2024-03-20T23:33:13.846Z","msg":"Monitored upward-trending local area network","sourceIndex":1}
+{"date":"2024-03-21T00:02:01.279Z","msg":"Down-sized background flexibility","sourceIndex":2}
+{"date":"2024-03-21T04:02:26.811Z","msg":"Synchronised mobile attitude","sourceIndex":2}
+{"date":"2024-03-22T11:37:22.415Z","msg":"Open-source systemic orchestration","sourceIndex":1}
+{"date":"2024-03-22T09:39:11.628Z","msg":"Customizable analyzing process improvement","sourceIndex":0}
+{"date":"2024-03-22T08:38:15.217Z","msg":"Visionary foreground instruction set","sourceIndex":0}
+{"date":"2024-03-22T16:40:09.119Z","msg":"Multi-tiered fault-tolerant flexibility","sourceIndex":0}
+{"date":"2024-03-22T22:05:15.968Z","msg":"Cross-platform even-keeled complexity","sourceIndex":2}
+{"date":"2024-03-22T22:40:51.675Z","msg":"Enterprise-wide optimal hardware","sourceIndex":0}
+{"date":"2024-03-22T20:38:34.912Z","msg":"Up-sized system-worthy approach","sourceIndex":1}
+{"date":"2024-03-23T05:39:36.268Z","msg":"Multi-layered needs-based framework","sourceIndex":1}
+{"date":"2024-03-23T04:05:21.939Z","msg":"Upgradable zero defect data-warehouse","sourceIndex":2}
+{"date":"2024-03-22T23:41:48.768Z","msg":"Self-enabling client-server initiative","sourceIndex":0}
+{"date":"2024-03-23T08:42:23.848Z","msg":"Persevering assymetric approach","sourceIndex":0}
+{"date":"2024-03-22T19:38:02.309Z","msg":"Business-focused modular ability","sourceIndex":1}
+{"date":"2024-03-23T11:05:57.182Z","msg":"Reactive content-based middleware","sourceIndex":2}
+{"date":"2024-03-23T15:40:25.810Z","msg":"Progressive real-time complexity","sourceIndex":1}
+{"date":"2024-03-23T18:43:09.916Z","msg":"Persistent content-based migration","sourceIndex":0}
+{"date":"2024-03-22T13:04:17.664Z","msg":"Streamlined exuding standardization","sourceIndex":2}
+{"date":"2024-03-24T04:43:32.007Z","msg":"Devolved solution-oriented adapter","sourceIndex":0}
+{"date":"2024-03-24T01:07:06.880Z","msg":"Balanced assymetric software","sourceIndex":2}
+{"date":"2024-03-24T03:41:43.998Z","msg":"Secured bottom-line access","sourceIndex":1}
+{"date":"2024-03-23T19:41:17.511Z","msg":"Exclusive dedicated framework","sourceIndex":1}
+{"date":"2024-03-23T20:06:39.387Z","msg":"Multi-layered grid-enabled encoding","sourceIndex":2}
+{"date":"2024-03-24T03:42:05.307Z","msg":"Programmable scalable encryption","sourceIndex":1}
+{"date":"2024-03-24T11:42:42.375Z","msg":"Visionary content-based methodology","sourceIndex":1}
+{"date":"2024-03-24T13:08:01.971Z","msg":"Managed even-keeled benchmark","sourceIndex":2}
+{"date":"2024-03-22T22:39:10.261Z","msg":"Horizontal full-range local area network","sourceIndex":1}
+{"date":"2024-03-24T12:43:17.108Z","msg":"Synchronised content-based orchestration","sourceIndex":1}
+{"date":"2024-03-24T22:43:35.626Z","msg":"User-friendly even-keeled extranet","sourceIndex":1}
+{"date":"2024-03-24T14:43:33.135Z","msg":"Pre-emptive mobile process improvement","sourceIndex":0}
+{"date":"2024-03-24T04:42:38.504Z","msg":"Reduced methodical contingency","sourceIndex":1}
+{"date":"2024-03-25T04:09:11.325Z","msg":"Multi-channelled demand-driven monitoring","sourceIndex":2}
+{"date":"2024-03-24T22:44:09.212Z","msg":"Secured bifurcated knowledge base","sourceIndex":1}
+{"date":"2024-03-25T01:44:02.092Z","msg":"Proactive asynchronous leverage","sourceIndex":0}
+{"date":"2024-03-25T01:44:11.449Z","msg":"Ameliorated grid-enabled help-desk","sourceIndex":1}
+{"date":"2024-03-25T08:44:28.129Z","msg":"Innovative 6th generation help-desk","sourceIndex":0}
+{"date":"2024-03-25T04:44:53.710Z","msg":"Balanced uniform service-desk","sourceIndex":1}
+{"date":"2024-03-25T08:09:14.077Z","msg":"Proactive exuding database","sourceIndex":2}
+{"date":"2024-03-24T23:43:50.114Z","msg":"Multi-channelled attitude-oriented utilisation","sourceIndex":0}
+{"date":"2024-03-24T22:08:33.175Z","msg":"Open-architected 3rd generation approach","sourceIndex":2}
+{"date":"2024-03-24T06:07:14.905Z","msg":"Integrated system-worthy workforce","sourceIndex":2}
+{"date":"2024-03-25T16:46:29.604Z","msg":"Re-engineered real-time service-desk","sourceIndex":1}
+{"date":"2024-03-25T14:44:39.691Z","msg":"Multi-lateral exuding encryption","sourceIndex":0}
+{"date":"2024-03-25T21:10:48.625Z","msg":"Synergistic solution-oriented concept","sourceIndex":2}
+{"date":"2024-03-25T09:45:49.948Z","msg":"Assimilated holistic migration","sourceIndex":1}
+{"date":"2024-03-26T06:11:28.258Z","msg":"Profound context-sensitive knowledge base","sourceIndex":2}
+{"date":"2024-03-25T23:47:24.075Z","msg":"Function-based 3rd generation neural-net","sourceIndex":1}
+{"date":"2024-03-25T22:44:55.375Z","msg":"Digitized optimal data-warehouse","sourceIndex":0}
+{"date":"2024-03-25T22:45:38.463Z","msg":"Monitored next generation toolset","sourceIndex":0}
+{"date":"2024-03-26T03:48:09.670Z","msg":"Team-oriented system-worthy policy","sourceIndex":1}
+{"date":"2024-03-26T01:46:09.999Z","msg":"Profound modular access","sourceIndex":0}
+{"date":"2024-03-26T10:12:11.154Z","msg":"Decentralized logistical parallelism","sourceIndex":2}
+{"date":"2024-03-26T09:48:43.136Z","msg":"Public-key real-time intranet","sourceIndex":1}
+{"date":"2024-03-26T09:49:27.577Z","msg":"Enhanced web-enabled success","sourceIndex":1}
+{"date":"2024-03-26T11:47:30.678Z","msg":"Grass-roots coherent initiative","sourceIndex":0}
+{"date":"2024-03-26T13:49:46.083Z","msg":"Profit-focused zero defect contingency","sourceIndex":1}
+{"date":"2024-03-26T08:46:43.523Z","msg":"Sharable executive data-warehouse","sourceIndex":0}
+{"date":"2024-03-26T17:12:52.062Z","msg":"Virtual even-keeled architecture","sourceIndex":2}
+{"date":"2024-03-25T09:44:36.048Z","msg":"Realigned leading edge product","sourceIndex":0}
+{"date":"2024-03-26T12:12:25.107Z","msg":"Quality-focused regional function","sourceIndex":2}
+{"date":"2024-03-26T23:50:49.110Z","msg":"Diverse upward-trending open architecture","sourceIndex":1}
+{"date":"2024-03-26T21:13:40.122Z","msg":"Front-line assymetric matrix","sourceIndex":2}
+{"date":"2024-03-26T21:13:49.564Z","msg":"Configurable optimizing middleware","sourceIndex":2}
+{"date":"2024-03-26T23:14:42.173Z","msg":"Multi-channelled executive website","sourceIndex":2}
+{"date":"2024-03-27T03:49:01.235Z","msg":"Managed intangible application","sourceIndex":0}
+{"date":"2024-03-27T03:14:59.578Z","msg":"Down-sized 6th generation capacity","sourceIndex":2}
+{"date":"2024-03-27T00:50:53.510Z","msg":"Mandatory client-driven system engine","sourceIndex":1}
+{"date":"2024-03-27T10:15:13.952Z","msg":"Fundamental real-time focus group","sourceIndex":2}
+{"date":"2024-03-27T04:51:46.126Z","msg":"Innovative system-worthy approach","sourceIndex":1}
+{"date":"2024-03-27T10:49:19.311Z","msg":"Mandatory incremental projection","sourceIndex":0}
+{"date":"2024-03-27T10:52:32.525Z","msg":"Open-architected maximized productivity","sourceIndex":1}
+{"date":"2024-03-27T17:49:53.976Z","msg":"Fundamental context-sensitive encryption","sourceIndex":0}
+{"date":"2024-03-27T20:15:44.894Z","msg":"Cross-group homogeneous knowledge base","sourceIndex":2}
+{"date":"2024-03-27T12:53:12.008Z","msg":"Ergonomic system-worthy database","sourceIndex":1}
+{"date":"2024-03-27T22:54:08.346Z","msg":"Programmable zero defect website","sourceIndex":1}
+{"date":"2024-03-28T00:16:05.953Z","msg":"Multi-layered uniform definition","sourceIndex":2}
+{"date":"2024-03-27T20:50:08.486Z","msg":"Enhanced multimedia customer loyalty","sourceIndex":0}
+{"date":"2024-03-28T03:51:02.153Z","msg":"Synergized high-level knowledge base","sourceIndex":0}
+{"date":"2024-03-28T05:55:00.081Z","msg":"Progressive transitional hierarchy","sourceIndex":1}
+{"date":"2024-03-28T05:51:03.302Z","msg":"Multi-lateral logistical budgetary management","sourceIndex":0}
+{"date":"2024-03-28T05:16:30.060Z","msg":"Phased demand-driven leverage","sourceIndex":2}
+{"date":"2024-03-28T09:17:26.825Z","msg":"Versatile tangible parallelism","sourceIndex":2}
+{"date":"2024-03-28T06:51:38.021Z","msg":"Phased optimal access","sourceIndex":0}
+{"date":"2024-03-28T15:52:27.398Z","msg":"Vision-oriented 3rd generation algorithm","sourceIndex":0}
+{"date":"2024-03-28T08:56:42.243Z","msg":"Quality-focused real-time time-frame","sourceIndex":1}
+{"date":"2024-03-28T16:57:37.993Z","msg":"Devolved zero administration middleware","sourceIndex":1}
+{"date":"2024-03-28T08:55:48.751Z","msg":"Synergized zero defect secured line","sourceIndex":1}
+{"date":"2024-03-28T17:17:34.769Z","msg":"Reverse-engineered multi-tasking access","sourceIndex":2}
+{"date":"2024-03-28T21:58:06.360Z","msg":"Synergistic grid-enabled database","sourceIndex":1}
+{"date":"2024-03-28T21:17:38.959Z","msg":"Implemented dedicated open system","sourceIndex":2}
+{"date":"2024-03-28T19:52:53.713Z","msg":"Multi-channelled cohesive analyzer","sourceIndex":0}
+{"date":"2024-03-28T22:53:15.336Z","msg":"Fully-configurable real-time paradigm","sourceIndex":0}
+{"date":"2024-03-28T23:18:29.450Z","msg":"Integrated fault-tolerant productivity","sourceIndex":2}
+{"date":"2024-03-28T22:58:41.628Z","msg":"Visionary incremental system engine","sourceIndex":1}
+{"date":"2024-03-29T05:53:42.891Z","msg":"Object-based 24 hour framework","sourceIndex":0}
+{"date":"2024-03-29T06:59:01.598Z","msg":"Persevering non-volatile interface","sourceIndex":1}
+{"date":"2024-03-29T00:18:40.773Z","msg":"Vision-oriented heuristic Graphical User Interface","sourceIndex":2}
+{"date":"2024-03-29T01:18:49.456Z","msg":"Quality-focused optimizing website","sourceIndex":2}
+{"date":"2024-03-29T09:18:58.421Z","msg":"Customizable exuding challenge","sourceIndex":2}
+{"date":"2024-03-29T07:53:52.237Z","msg":"Upgradable foreground analyzer","sourceIndex":0}
+{"date":"2024-03-26T13:50:32.891Z","msg":"Public-key intangible customer loyalty","sourceIndex":1}
+{"date":"2024-03-29T11:00:19.930Z","msg":"Open-architected actuating access","sourceIndex":1}
+{"date":"2024-03-29T09:54:24.868Z","msg":"Enhanced bi-directional budgetary management","sourceIndex":0}
+{"date":"2024-03-29T11:19:32.962Z","msg":"Re-contextualized zero administration software","sourceIndex":2}
+{"date":"2024-03-29T15:55:08.391Z","msg":"Synergistic heuristic open system","sourceIndex":0}
+{"date":"2024-03-29T17:00:55.736Z","msg":"Triple-buffered 4th generation open architecture","sourceIndex":1}
+{"date":"2024-03-29T15:20:02.584Z","msg":"Distributed content-based neural-net","sourceIndex":2}
+{"date":"2024-03-30T00:20:39.324Z","msg":"Fundamental upward-trending matrices","sourceIndex":2}
+{"date":"2024-03-29T22:55:48.897Z","msg":"Up-sized holistic strategy","sourceIndex":0}
+{"date":"2024-03-30T03:01:34.522Z","msg":"Multi-lateral high-level emulation","sourceIndex":1}
+{"date":"2024-03-30T08:55:55.912Z","msg":"Re-engineered eco-centric contingency","sourceIndex":0}
+{"date":"2024-03-30T10:20:56.763Z","msg":"Profound bottom-line model","sourceIndex":2}
+{"date":"2024-03-30T13:02:08.600Z","msg":"Visionary stable project","sourceIndex":1}
+{"date":"2024-03-30T09:56:26.911Z","msg":"Object-based regional ability","sourceIndex":0}
+{"date":"2024-03-30T11:57:11.479Z","msg":"Cross-platform motivating policy","sourceIndex":0}
+{"date":"2024-03-30T11:21:15.287Z","msg":"Devolved contextually-based ability","sourceIndex":2}
+{"date":"2024-03-30T11:22:03.329Z","msg":"Self-enabling holistic artificial intelligence","sourceIndex":2}
+{"date":"2024-03-30T16:22:05.417Z","msg":"Object-based eco-centric moratorium","sourceIndex":2}
+{"date":"2024-03-30T19:57:45.785Z","msg":"Enhanced mission-critical database","sourceIndex":0}
+{"date":"2024-03-30T21:02:56.473Z","msg":"Mandatory neutral system engine","sourceIndex":1}
+{"date":"2024-03-30T23:22:18.285Z","msg":"Team-oriented homogeneous hierarchy","sourceIndex":2}
+{"date":"2024-03-31T05:58:17.850Z","msg":"Universal homogeneous moratorium","sourceIndex":0}
+{"date":"2024-03-30T23:03:05.671Z","msg":"Mandatory homogeneous portal","sourceIndex":1}
+{"date":"2024-03-31T05:03:34.483Z","msg":"Expanded fresh-thinking open system","sourceIndex":1}
+{"date":"2024-03-31T02:23:05.131Z","msg":"Sharable multi-tasking budgetary management","sourceIndex":2}
+{"date":"2024-03-31T02:23:24.210Z","msg":"Innovative local synergy","sourceIndex":2}
+{"date":"2024-03-25T12:10:00.137Z","msg":"Public-key mission-critical superstructure","sourceIndex":2}
+{"date":"2024-03-29T06:59:53.169Z","msg":"Realigned full-range model","sourceIndex":1}
+{"date":"2024-03-31T05:58:19.261Z","msg":"Stand-alone hybrid hierarchy","sourceIndex":0}
+{"date":"2024-03-31T07:58:32.111Z","msg":"Optional system-worthy paradigm","sourceIndex":0}
+{"date":"2024-03-31T15:58:45.072Z","msg":"Progressive human-resource forecast","sourceIndex":0}
+{"date":"2024-03-31T19:24:32.859Z","msg":"Adaptive local project","sourceIndex":2}
+{"date":"2024-03-31T17:05:05.560Z","msg":"Open-source leading edge interface","sourceIndex":1}
+{"date":"2024-03-31T19:59:34.232Z","msg":"Decentralized encompassing utilisation","sourceIndex":0}
+{"date":"2024-03-31T20:05:26.193Z","msg":"Customizable uniform flexibility","sourceIndex":1}
+{"date":"2024-03-31T19:25:02.296Z","msg":"Digitized secondary complexity","sourceIndex":2}
+{"date":"2024-03-31T22:25:13.022Z","msg":"Integrated systematic approach","sourceIndex":2}
+{"date":"2024-03-31T22:00:17.991Z","msg":"Centralized upward-trending archive","sourceIndex":0}
+{"date":"2024-04-01T02:06:00.409Z","msg":"Profound zero defect encryption","sourceIndex":1}
+{"date":"2024-04-01T00:00:26.484Z","msg":"Automated foreground framework","sourceIndex":0}
+{"date":"2024-03-31T22:25:38.279Z","msg":"Self-enabling directional superstructure","sourceIndex":2}
+{"date":"2024-03-31T22:25:54.340Z","msg":"Re-engineered radical initiative","sourceIndex":2}
+{"date":"2024-03-31T23:26:45.552Z","msg":"Decentralized impactful contingency","sourceIndex":2}
+{"date":"2024-04-01T04:27:20.176Z","msg":"Diverse empowering knowledge base","sourceIndex":2}
+{"date":"2024-04-01T01:00:52.152Z","msg":"Synergistic bi-directional firmware","sourceIndex":0}
+{"date":"2024-04-01T07:01:20.220Z","msg":"Progressive client-server definition","sourceIndex":0}
+{"date":"2024-04-01T12:06:06.997Z","msg":"Assimilated clear-thinking throughput","sourceIndex":1}
+{"date":"2024-04-01T14:27:39.280Z","msg":"Persevering client-driven algorithm","sourceIndex":2}
+{"date":"2024-04-01T16:01:36.358Z","msg":"Persistent empowering process improvement","sourceIndex":0}
+{"date":"2024-04-01T15:06:56.488Z","msg":"Versatile fault-tolerant collaboration","sourceIndex":1}
+{"date":"2024-04-01T21:28:04.052Z","msg":"Re-contextualized 5th generation software","sourceIndex":2}
+{"date":"2024-04-02T00:07:52.155Z","msg":"Team-oriented foreground groupware","sourceIndex":1}
+{"date":"2024-04-01T22:02:29.679Z","msg":"Public-key web-enabled utilisation","sourceIndex":0}
+{"date":"2024-04-02T07:28:57.855Z","msg":"Phased zero administration instruction set","sourceIndex":2}
+{"date":"2024-04-02T05:02:31.328Z","msg":"Extended neutral system engine","sourceIndex":0}
+{"date":"2024-04-02T00:08:34.271Z","msg":"Customer-focused modular functionalities","sourceIndex":1}
+{"date":"2024-04-02T10:09:13.020Z","msg":"Quality-focused tertiary ability","sourceIndex":1}
+{"date":"2024-04-02T05:02:35.727Z","msg":"User-friendly client-driven system engine","sourceIndex":0}
+{"date":"2024-04-02T13:03:16.843Z","msg":"Sharable responsive Graphical User Interface","sourceIndex":0}
+{"date":"2024-04-02T08:29:40.847Z","msg":"Sharable 3rd generation ability","sourceIndex":2}
+{"date":"2024-04-02T18:29:52.363Z","msg":"Stand-alone optimizing service-desk","sourceIndex":2}
+{"date":"2024-04-02T11:09:56.709Z","msg":"Intuitive non-volatile orchestration","sourceIndex":1}
+{"date":"2024-03-26T21:48:10.677Z","msg":"Persistent dedicated toolset","sourceIndex":0}
+{"date":"2024-04-02T15:03:35.291Z","msg":"Mandatory zero tolerance moderator","sourceIndex":0}
+{"date":"2024-04-02T16:04:03.399Z","msg":"Fully-configurable directional neural-net","sourceIndex":0}
+{"date":"2024-04-02T19:04:33.680Z","msg":"Proactive bi-directional conglomeration","sourceIndex":0}
+{"date":"2024-04-02T21:30:36.242Z","msg":"Reactive 24/7 encoding","sourceIndex":2}
+{"date":"2024-04-03T05:04:33.827Z","msg":"Cross-group directional implementation","sourceIndex":0}
+{"date":"2024-04-02T20:11:22.640Z","msg":"Virtual global interface","sourceIndex":1}
+{"date":"2024-04-03T01:12:02.785Z","msg":"Networked fault-tolerant superstructure","sourceIndex":1}
+{"date":"2024-04-02T22:31:18.364Z","msg":"Innovative stable success","sourceIndex":2}
+{"date":"2024-04-03T00:31:58.032Z","msg":"Right-sized actuating strategy","sourceIndex":2}
+{"date":"2024-04-03T05:32:08.215Z","msg":"Innovative dedicated secured line","sourceIndex":2}
+{"date":"2024-04-03T02:12:15.827Z","msg":"Compatible national middleware","sourceIndex":1}
+{"date":"2024-04-03T03:13:06.264Z","msg":"Synchronised system-worthy portal","sourceIndex":1}
+{"date":"2024-04-03T07:13:44.701Z","msg":"Reactive reciprocal customer loyalty","sourceIndex":1}
+{"date":"2024-04-03T13:05:03.757Z","msg":"Visionary discrete capability","sourceIndex":0}
+{"date":"2024-04-03T14:32:48.109Z","msg":"Business-focused coherent product","sourceIndex":2}
+{"date":"2024-04-03T16:13:51.299Z","msg":"Integrated even-keeled paradigm","sourceIndex":1}
+{"date":"2024-04-03T14:06:01.107Z","msg":"Stand-alone system-worthy frame","sourceIndex":0}
+{"date":"2024-04-03T21:06:22.247Z","msg":"Upgradable mobile knowledge user","sourceIndex":0}
+{"date":"2024-04-03T18:33:20.755Z","msg":"Customizable human-resource model","sourceIndex":2}
+{"date":"2024-04-04T01:14:37.703Z","msg":"Mandatory user-facing parallelism","sourceIndex":1}
+{"date":"2024-04-04T04:33:48.082Z","msg":"Inverse zero tolerance neural-net","sourceIndex":2}
+{"date":"2024-03-31T12:04:05.982Z","msg":"Upgradable upward-trending instruction set","sourceIndex":1}
+{"date":"2024-04-04T05:15:11.461Z","msg":"Visionary heuristic process improvement","sourceIndex":1}
+{"date":"2024-04-04T07:07:04.849Z","msg":"Diverse composite toolset","sourceIndex":0}
+{"date":"2024-04-04T11:34:01.254Z","msg":"Progressive non-volatile conglomeration","sourceIndex":2}
+{"date":"2024-04-04T07:16:10.130Z","msg":"Pre-emptive logistical algorithm","sourceIndex":1}
+{"date":"2024-04-04T11:07:09.777Z","msg":"Seamless systematic core","sourceIndex":0}
+{"date":"2024-04-04T17:16:34.858Z","msg":"Decentralized cohesive success","sourceIndex":1}
+{"date":"2024-04-04T17:07:13.332Z","msg":"De-engineered actuating open system","sourceIndex":0}
+{"date":"2024-04-04T20:34:13.744Z","msg":"Object-based disintermediate circuit","sourceIndex":2}
+{"date":"2024-04-05T02:08:06.073Z","msg":"Self-enabling mobile forecast","sourceIndex":0}
+{"date":"2024-04-04T18:16:57.276Z","msg":"Polarised client-driven groupware","sourceIndex":1}
+{"date":"2024-04-04T21:17:32.059Z","msg":"Balanced intangible adapter","sourceIndex":1}
+{"date":"2024-04-04T22:34:26.335Z","msg":"Profound context-sensitive productivity","sourceIndex":2}
+{"date":"2024-04-05T00:17:32.458Z","msg":"Compatible non-volatile infrastructure","sourceIndex":1}
+{"date":"2024-04-05T07:34:39.703Z","msg":"Realigned interactive budgetary management","sourceIndex":2}
+{"date":"2024-04-05T10:18:12.815Z","msg":"User-centric even-keeled monitoring","sourceIndex":1}
+{"date":"2024-04-05T06:08:07.707Z","msg":"Extended actuating productivity","sourceIndex":0}
+{"date":"2024-04-05T14:09:06.102Z","msg":"Profit-focused homogeneous projection","sourceIndex":0}
+{"date":"2024-04-05T11:35:19.831Z","msg":"Versatile responsive concept","sourceIndex":2}
+{"date":"2024-04-05T18:18:18.515Z","msg":"Optimized non-volatile firmware","sourceIndex":1}
+{"date":"2024-04-05T15:35:48.482Z","msg":"Ergonomic bifurcated product","sourceIndex":2}
+{"date":"2024-04-06T00:09:52.862Z","msg":"Optimized clear-thinking budgetary management","sourceIndex":0}
+{"date":"2024-04-05T23:36:16.550Z","msg":"Persevering actuating service-desk","sourceIndex":2}
+{"date":"2024-04-06T03:19:06.164Z","msg":"Integrated multi-tasking software","sourceIndex":1}
+{"date":"2024-04-06T03:36:49.486Z","msg":"Switchable 5th generation customer loyalty","sourceIndex":2}
+{"date":"2024-04-06T08:10:32.019Z","msg":"Monitored encompassing encoding","sourceIndex":0}
+{"date":"2024-04-04T03:06:30.930Z","msg":"Triple-buffered multi-state open architecture","sourceIndex":0}
+{"date":"2024-04-02T20:10:40.348Z","msg":"Re-engineered neutral adapter","sourceIndex":1}
+{"date":"2024-04-06T07:37:26.660Z","msg":"Distributed real-time matrix","sourceIndex":2}
+{"date":"2024-04-06T14:37:40.696Z","msg":"Business-focused hybrid hardware","sourceIndex":2}
+{"date":"2024-04-06T18:11:10.113Z","msg":"Extended foreground success","sourceIndex":0}
+{"date":"2024-04-06T13:19:46.376Z","msg":"Compatible analyzing model","sourceIndex":1}
+{"date":"2024-04-06T18:19:53.534Z","msg":"Grass-roots optimizing data-warehouse","sourceIndex":1}
+{"date":"2024-04-06T18:37:42.561Z","msg":"Multi-tiered web-enabled toolset","sourceIndex":2}
+{"date":"2024-04-06T19:12:03.326Z","msg":"Proactive well-modulated application","sourceIndex":0}
+{"date":"2024-04-07T00:20:26.896Z","msg":"Public-key regional knowledge base","sourceIndex":1}
+{"date":"2024-04-06T19:38:37.305Z","msg":"Multi-layered system-worthy leverage","sourceIndex":2}
+{"date":"2024-04-07T03:12:50.222Z","msg":"Sharable upward-trending archive","sourceIndex":0}
+{"date":"2024-04-07T03:38:39.478Z","msg":"Horizontal multi-tasking encoding","sourceIndex":2}
+{"date":"2024-04-07T01:20:51.091Z","msg":"Object-based radical info-mediaries","sourceIndex":1}
+{"date":"2024-04-07T02:20:59.345Z","msg":"Multi-lateral actuating implementation","sourceIndex":1}
+{"date":"2024-04-07T11:21:14.555Z","msg":"Centralized web-enabled knowledge user","sourceIndex":1}
+{"date":"2024-04-07T12:13:40.535Z","msg":"Customizable regional ability","sourceIndex":0}
+{"date":"2024-04-07T04:38:39.960Z","msg":"Vision-oriented non-volatile hub","sourceIndex":2}
+{"date":"2024-04-07T13:38:48.868Z","msg":"Reduced upward-trending access","sourceIndex":2}
+{"date":"2024-04-07T16:21:46.347Z","msg":"Re-engineered fault-tolerant analyzer","sourceIndex":1}
+{"date":"2024-04-07T22:14:21.718Z","msg":"Up-sized well-modulated budgetary management","sourceIndex":0}
+{"date":"2024-04-07T17:39:04.595Z","msg":"Configurable real-time collaboration","sourceIndex":2}
+{"date":"2024-04-07T21:22:24.460Z","msg":"Function-based leading edge definition","sourceIndex":1}
+{"date":"2024-04-08T03:39:18.746Z","msg":"Versatile tangible Graphic Interface","sourceIndex":2}
+{"date":"2024-04-08T01:23:18.183Z","msg":"Public-key static pricing structure","sourceIndex":1}
+{"date":"2024-04-07T23:14:59.431Z","msg":"Monitored object-oriented budgetary management","sourceIndex":0}
+{"date":"2024-04-08T02:15:47.171Z","msg":"User-friendly maximized conglomeration","sourceIndex":0}
+{"date":"2024-04-08T02:24:08.463Z","msg":"Reverse-engineered client-server solution","sourceIndex":1}
+{"date":"2024-04-08T09:16:08.837Z","msg":"Reactive clear-thinking project","sourceIndex":0}
+{"date":"2024-04-08T04:24:52.800Z","msg":"Face to face empowering interface","sourceIndex":1}
+{"date":"2024-04-08T08:40:07.484Z","msg":"Distributed regional monitoring","sourceIndex":2}
+{"date":"2024-04-08T13:25:23.969Z","msg":"Organic leading edge strategy","sourceIndex":1}
+{"date":"2024-04-08T16:40:19.498Z","msg":"Fully-configurable systematic parallelism","sourceIndex":2}
+{"date":"2024-04-08T13:26:01.834Z","msg":"Robust heuristic infrastructure","sourceIndex":1}
+{"date":"2024-04-08T20:26:33.609Z","msg":"Inverse optimal framework","sourceIndex":1}
+{"date":"2024-04-08T18:16:40.393Z","msg":"Cross-platform motivating strategy","sourceIndex":0}
+{"date":"2024-04-08T19:41:05.999Z","msg":"Open-source foreground success","sourceIndex":2}
+{"date":"2024-04-09T04:17:03.396Z","msg":"Managed transitional website","sourceIndex":0}
+{"date":"2024-04-08T21:41:18.391Z","msg":"Intuitive interactive leverage","sourceIndex":2}
+{"date":"2024-04-09T03:27:08.003Z","msg":"Universal interactive projection","sourceIndex":1}
+{"date":"2024-04-08T22:41:28.193Z","msg":"Profound homogeneous product","sourceIndex":2}
+{"date":"2024-04-09T07:41:41.391Z","msg":"Reduced multimedia parallelism","sourceIndex":2}
+{"date":"2024-04-09T11:27:14.756Z","msg":"Secured logistical ability","sourceIndex":1}
+{"date":"2024-04-09T05:18:02.324Z","msg":"Multi-tiered hybrid data-warehouse","sourceIndex":0}
+{"date":"2024-04-09T08:18:32.511Z","msg":"Future-proofed logistical core","sourceIndex":0}
+{"date":"2024-04-09T06:18:29.326Z","msg":"Seamless didactic capability","sourceIndex":0}
+{"date":"2024-04-09T17:42:02.087Z","msg":"Centralized web-enabled model","sourceIndex":2}
+{"date":"2024-04-09T16:19:25.511Z","msg":"Configurable context-sensitive orchestration","sourceIndex":0}
+{"date":"2024-04-09T16:28:24.035Z","msg":"Face to face leading edge data-warehouse","sourceIndex":1}
+{"date":"2024-04-09T13:27:53.832Z","msg":"Organized client-driven encryption","sourceIndex":1}
+{"date":"2024-04-09T22:19:31.739Z","msg":"Open-source holistic budgetary management","sourceIndex":0}
+{"date":"2024-04-09T19:29:18.066Z","msg":"Customer-focused holistic pricing structure","sourceIndex":1}
+{"date":"2024-04-10T00:42:04.808Z","msg":"Ergonomic hybrid initiative","sourceIndex":2}
+{"date":"2024-04-09T20:30:05.022Z","msg":"Phased zero tolerance success","sourceIndex":1}
+{"date":"2024-04-10T05:30:39.457Z","msg":"Adaptive client-driven internet solution","sourceIndex":1}
+{"date":"2024-04-10T07:19:47.860Z","msg":"Upgradable value-added secured line","sourceIndex":0}
+{"date":"2024-04-10T00:42:09.904Z","msg":"Reduced mobile firmware","sourceIndex":2}
+{"date":"2024-04-10T01:43:19.657Z","msg":"Robust scalable concept","sourceIndex":2}
+{"date":"2024-04-10T01:42:37.211Z","msg":"Sharable impactful capability","sourceIndex":2}
+{"date":"2024-04-10T04:43:58.457Z","msg":"Programmable bi-directional complexity","sourceIndex":2}
+{"date":"2024-04-10T05:44:01.888Z","msg":"Face to face holistic throughput","sourceIndex":2}
+{"date":"2024-04-10T08:31:15.898Z","msg":"Stand-alone fault-tolerant workforce","sourceIndex":1}
+{"date":"2024-04-10T06:44:49.663Z","msg":"Centralized real-time throughput","sourceIndex":2}
+{"date":"2024-04-10T15:44:57.930Z","msg":"Distributed human-resource knowledge user","sourceIndex":2}
+{"date":"2024-04-10T11:20:25.738Z","msg":"Managed 24 hour customer loyalty","sourceIndex":0}
+{"date":"2024-04-10T21:20:31.841Z","msg":"User-centric responsive methodology","sourceIndex":0}
+{"date":"2024-04-10T15:32:10.333Z","msg":"Multi-lateral bandwidth-monitored open system","sourceIndex":1}
+{"date":"2024-04-11T01:33:01.774Z","msg":"Customizable homogeneous neural-net","sourceIndex":1}
+{"date":"2024-04-11T01:45:07.379Z","msg":"Switchable global instruction set","sourceIndex":2}
+{"date":"2024-04-11T00:21:35.873Z","msg":"Re-engineered real-time neural-net","sourceIndex":0}
+{"date":"2024-04-10T21:21:02.437Z","msg":"Compatible 4th generation policy","sourceIndex":0}
+{"date":"2024-04-11T05:22:18.225Z","msg":"Face to face foreground internet solution","sourceIndex":0}
+{"date":"2024-04-11T08:33:44.787Z","msg":"Synergized solution-oriented installation","sourceIndex":1}
+{"date":"2024-04-11T01:45:32.269Z","msg":"Customer-focused actuating middleware","sourceIndex":2}
+{"date":"2024-04-11T05:45:42.051Z","msg":"Networked systemic service-desk","sourceIndex":2}
+{"date":"2024-04-11T10:46:24.935Z","msg":"Mandatory object-oriented model","sourceIndex":2}
+{"date":"2024-04-11T15:22:31.014Z","msg":"Up-sized uniform process improvement","sourceIndex":0}
+{"date":"2024-03-31T10:24:01.759Z","msg":"Advanced multi-tasking challenge","sourceIndex":2}
+{"date":"2024-04-06T12:19:14.102Z","msg":"Future-proofed grid-enabled customer loyalty","sourceIndex":1}
+{"date":"2024-04-11T17:34:34.442Z","msg":"Team-oriented dynamic software","sourceIndex":1}
+{"date":"2024-04-11T13:34:16.325Z","msg":"Multi-layered tertiary productivity","sourceIndex":1}
+{"date":"2024-04-11T22:22:48.708Z","msg":"Focused tangible leverage","sourceIndex":0}
+{"date":"2024-04-12T04:47:50.817Z","msg":"Operative upward-trending policy","sourceIndex":2}
+{"date":"2024-04-11T22:35:34.145Z","msg":"Devolved uniform moratorium","sourceIndex":1}
+{"date":"2024-04-12T04:23:20.953Z","msg":"Ameliorated fault-tolerant capability","sourceIndex":0}
+{"date":"2024-04-12T04:35:46.335Z","msg":"Enterprise-wide asynchronous policy","sourceIndex":1}
+{"date":"2024-04-12T03:35:37.945Z","msg":"Diverse local moderator","sourceIndex":1}
+{"date":"2024-04-06T07:36:54.468Z","msg":"Automated 24/7 challenge","sourceIndex":2}
+{"date":"2024-04-11T23:35:36.891Z","msg":"Extended optimal hierarchy","sourceIndex":1}
+{"date":"2024-04-12T09:24:20.299Z","msg":"Devolved regional benchmark","sourceIndex":0}
+{"date":"2024-04-12T06:24:13.151Z","msg":"Ameliorated 24/7 middleware","sourceIndex":0}
+{"date":"2024-04-12T06:47:54.458Z","msg":"Managed tangible initiative","sourceIndex":2}
+{"date":"2024-04-12T17:24:30.283Z","msg":"Down-sized heuristic task-force","sourceIndex":0}
+{"date":"2024-04-12T22:49:02.837Z","msg":"Innovative holistic encryption","sourceIndex":2}
+{"date":"2024-04-12T19:36:36.479Z","msg":"Expanded 4th generation circuit","sourceIndex":1}
+{"date":"2024-04-12T19:24:55.383Z","msg":"Balanced multi-tasking hub","sourceIndex":0}
+{"date":"2024-04-13T05:25:13.838Z","msg":"Function-based hybrid application","sourceIndex":0}
+{"date":"2024-04-12T09:36:25.010Z","msg":"Re-engineered assymetric migration","sourceIndex":1}
+{"date":"2024-04-12T21:36:50.996Z","msg":"Enterprise-wide optimizing productivity","sourceIndex":1}
+{"date":"2024-04-11T18:46:51.511Z","msg":"Programmable exuding time-frame","sourceIndex":2}
+{"date":"2024-04-13T00:49:43.149Z","msg":"Diverse web-enabled pricing structure","sourceIndex":2}
+{"date":"2024-04-13T10:50:35.208Z","msg":"Triple-buffered maximized strategy","sourceIndex":2}
+{"date":"2024-04-13T05:37:40.470Z","msg":"Stand-alone holistic knowledge user","sourceIndex":1}
+{"date":"2024-04-13T04:37:06.455Z","msg":"Multi-lateral explicit neural-net","sourceIndex":1}
+{"date":"2024-04-13T13:25:27.207Z","msg":"Advanced system-worthy installation","sourceIndex":0}
+{"date":"2024-04-13T21:25:51.396Z","msg":"Robust fault-tolerant solution","sourceIndex":0}
+{"date":"2024-04-13T14:51:11.830Z","msg":"Exclusive logistical encoding","sourceIndex":2}
+{"date":"2024-04-13T19:51:56.703Z","msg":"Polarised bottom-line data-warehouse","sourceIndex":2}
+{"date":"2024-04-13T01:49:49.088Z","msg":"Right-sized directional synergy","sourceIndex":2}
+{"date":"2024-04-13T15:37:51.747Z","msg":"Enhanced fault-tolerant complexity","sourceIndex":1}
+{"date":"2024-04-13T22:39:55.492Z","msg":"Stand-alone regional algorithm","sourceIndex":1}
+{"date":"2024-04-13T17:38:49.275Z","msg":"Quality-focused demand-driven task-force","sourceIndex":1}
+{"date":"2024-04-14T05:39:59.163Z","msg":"Self-enabling demand-driven Graphic Interface","sourceIndex":1}
+{"date":"2024-04-14T08:53:16.167Z","msg":"Devolved next generation artificial intelligence","sourceIndex":2}
+{"date":"2024-04-13T17:39:40.801Z","msg":"Organic neutral monitoring","sourceIndex":1}
+{"date":"2024-04-13T22:52:48.099Z","msg":"Expanded coherent policy","sourceIndex":2}
+{"date":"2024-04-12T12:48:43.381Z","msg":"Total 24 hour intranet","sourceIndex":2}
+{"date":"2024-04-14T05:26:29.837Z","msg":"Universal mission-critical framework","sourceIndex":0}
+{"date":"2024-04-14T12:26:58.972Z","msg":"Sharable cohesive core","sourceIndex":0}
+{"date":"2024-04-14T11:40:08.597Z","msg":"Assimilated motivating workforce","sourceIndex":1}
+{"date":"2024-04-14T12:54:05.475Z","msg":"Pre-emptive 6th generation encryption","sourceIndex":2}
+{"date":"2024-04-14T16:40:21.645Z","msg":"Operative homogeneous hierarchy","sourceIndex":1}
+{"date":"2024-04-14T14:54:29.007Z","msg":"Implemented responsive intranet","sourceIndex":2}
+{"date":"2024-04-14T00:26:11.409Z","msg":"Customizable global model","sourceIndex":0}
+{"date":"2024-04-14T15:54:36.362Z","msg":"Exclusive methodical installation","sourceIndex":2}
+{"date":"2024-04-14T15:27:37.746Z","msg":"Balanced multi-tasking benchmark","sourceIndex":0}
+{"date":"2024-04-14T23:28:18.148Z","msg":"Distributed modular hierarchy","sourceIndex":0}
+{"date":"2024-04-14T23:41:15.021Z","msg":"Enterprise-wide 5th generation matrix","sourceIndex":1}
+{"date":"2024-04-14T23:28:20.153Z","msg":"Object-based fresh-thinking attitude","sourceIndex":0}
+{"date":"2024-04-15T08:41:45.354Z","msg":"Managed tangible local area network","sourceIndex":1}
+{"date":"2024-04-15T07:28:42.830Z","msg":"Intuitive full-range collaboration","sourceIndex":0}
+{"date":"2024-04-15T06:28:40.171Z","msg":"Cloned didactic info-mediaries","sourceIndex":0}
+{"date":"2024-04-15T14:57:03.494Z","msg":"Future-proofed multi-state database","sourceIndex":2}
+{"date":"2024-04-15T15:29:25.278Z","msg":"Synergistic leading edge success","sourceIndex":0}
+{"date":"2024-04-15T15:57:17.290Z","msg":"Re-engineered bandwidth-monitored project","sourceIndex":2}
+{"date":"2024-04-15T16:41:46.697Z","msg":"Decentralized logistical monitoring","sourceIndex":1}
+{"date":"2024-04-15T17:29:47.729Z","msg":"Programmable bifurcated model","sourceIndex":0}
+{"date":"2024-04-15T16:57:34.687Z","msg":"Re-engineered national parallelism","sourceIndex":2}
+{"date":"2024-04-15T21:42:29.654Z","msg":"Distributed hybrid toolset","sourceIndex":1}
+{"date":"2024-04-15T21:58:32.783Z","msg":"Secured solution-oriented archive","sourceIndex":2}
+{"date":"2024-04-16T03:30:31.983Z","msg":"User-friendly leading edge analyzer","sourceIndex":0}
+{"date":"2024-04-16T02:43:23.756Z","msg":"Proactive web-enabled structure","sourceIndex":1}
+{"date":"2024-04-14T06:26:52.547Z","msg":"Reverse-engineered stable architecture","sourceIndex":0}
+{"date":"2024-04-16T02:58:42.375Z","msg":"Integrated dynamic system engine","sourceIndex":2}
+{"date":"2024-04-16T06:59:12.686Z","msg":"Stand-alone encompassing software","sourceIndex":2}
+{"date":"2024-04-16T11:31:29.494Z","msg":"Team-oriented mobile hierarchy","sourceIndex":0}
+{"date":"2024-04-16T10:59:29.802Z","msg":"Persistent directional Graphic Interface","sourceIndex":2}
+{"date":"2024-04-16T16:44:17.933Z","msg":"Synergized 6th generation task-force","sourceIndex":1}
+{"date":"2024-04-16T13:59:58.891Z","msg":"Down-sized 6th generation strategy","sourceIndex":2}
+{"date":"2024-04-16T19:32:14.870Z","msg":"Optional optimal support","sourceIndex":0}
+{"date":"2024-04-16T19:00:11.710Z","msg":"Quality-focused composite firmware","sourceIndex":2}
+{"date":"2024-04-16T22:45:03.986Z","msg":"Quality-focused impactful hierarchy","sourceIndex":1}
+{"date":"2024-04-17T00:00:34.660Z","msg":"Seamless zero defect Graphical User Interface","sourceIndex":2}
+{"date":"2024-04-16T21:32:31.811Z","msg":"Universal exuding task-force","sourceIndex":0}
+{"date":"2024-04-17T02:33:01.614Z","msg":"Switchable empowering analyzer","sourceIndex":0}
+{"date":"2024-04-16T23:45:22.718Z","msg":"De-engineered didactic capability","sourceIndex":1}
+{"date":"2024-04-17T07:46:46.728Z","msg":"Monitored static moderator","sourceIndex":1}
+{"date":"2024-04-16T23:46:14.662Z","msg":"Programmable regional hub","sourceIndex":1}
+{"date":"2024-04-17T01:01:06.637Z","msg":"Ameliorated 5th generation array","sourceIndex":2}
+{"date":"2024-04-17T07:01:40.054Z","msg":"Robust multi-tasking system engine","sourceIndex":2}
+{"date":"2024-04-17T07:01:51.474Z","msg":"Inverse solution-oriented analyzer","sourceIndex":2}
+{"date":"2024-04-17T11:33:15.539Z","msg":"Virtual directional extranet","sourceIndex":0}
+{"date":"2024-04-17T14:46:49.624Z","msg":"Open-architected real-time software","sourceIndex":1}
+{"date":"2024-04-17T13:02:32.809Z","msg":"Universal contextually-based architecture","sourceIndex":2}
+{"date":"2024-04-17T11:34:14.900Z","msg":"Inverse fresh-thinking hardware","sourceIndex":0}
+{"date":"2024-04-17T19:35:00.882Z","msg":"Organic optimal website","sourceIndex":0}
+{"date":"2024-04-17T18:47:20.324Z","msg":"Implemented national migration","sourceIndex":1}
+{"date":"2024-04-17T19:03:04.029Z","msg":"Inverse even-keeled interface","sourceIndex":2}
+{"date":"2024-04-18T02:48:18.905Z","msg":"Visionary tangible challenge","sourceIndex":1}
+{"date":"2024-04-17T21:03:20.445Z","msg":"Seamless analyzing concept","sourceIndex":2}
+{"date":"2024-04-18T02:35:50.772Z","msg":"Versatile clear-thinking productivity","sourceIndex":0}
+{"date":"2024-04-18T00:03:26.392Z","msg":"Polarised systemic initiative","sourceIndex":2}
+{"date":"2024-04-18T02:36:34.435Z","msg":"User-centric scalable software","sourceIndex":0}
+{"date":"2024-04-18T07:04:22.673Z","msg":"Exclusive non-volatile middleware","sourceIndex":2}
+{"date":"2024-04-18T04:49:16.459Z","msg":"Profound hybrid encryption","sourceIndex":1}
+{"date":"2024-04-18T03:37:06.289Z","msg":"Persevering fresh-thinking support","sourceIndex":0}
+{"date":"2024-04-18T13:37:59.326Z","msg":"Virtual leading edge budgetary management","sourceIndex":0}
+{"date":"2024-04-15T00:55:31.114Z","msg":"Organized bottom-line strategy","sourceIndex":2}
+{"date":"2024-04-18T05:49:43.227Z","msg":"Multi-layered leading edge projection","sourceIndex":1}
+{"date":"2024-04-18T06:49:44.711Z","msg":"Phased empowering framework","sourceIndex":1}
+{"date":"2024-04-18T10:50:31.178Z","msg":"Right-sized local monitoring","sourceIndex":1}
+{"date":"2024-04-18T07:04:45.018Z","msg":"Open-source systematic concept","sourceIndex":2}
+{"date":"2024-04-18T14:05:39.821Z","msg":"Secured systematic frame","sourceIndex":2}
+{"date":"2024-04-18T14:50:50.373Z","msg":"Multi-layered radical artificial intelligence","sourceIndex":1}
+{"date":"2024-04-18T14:06:24.033Z","msg":"Business-focused national archive","sourceIndex":2}
+{"date":"2024-04-18T20:38:11.629Z","msg":"De-engineered well-modulated service-desk","sourceIndex":0}
+{"date":"2024-04-18T18:07:01.138Z","msg":"Reverse-engineered assymetric function","sourceIndex":2}
+{"date":"2024-04-18T17:51:13.417Z","msg":"Switchable executive policy","sourceIndex":1}
+{"date":"2024-04-18T19:52:11.375Z","msg":"Robust interactive challenge","sourceIndex":1}
+{"date":"2024-04-19T04:07:28.346Z","msg":"Customer-focused context-sensitive matrix","sourceIndex":2}
+{"date":"2024-04-19T01:53:07.452Z","msg":"Operative high-level collaboration","sourceIndex":1}
+{"date":"2024-04-19T01:38:20.283Z","msg":"Virtual 3rd generation workforce","sourceIndex":0}
+{"date":"2024-04-19T10:39:10.177Z","msg":"Profit-focused optimal parallelism","sourceIndex":0}
+{"date":"2024-04-19T02:54:00.665Z","msg":"Adaptive coherent projection","sourceIndex":1}
+{"date":"2024-04-19T10:08:21.719Z","msg":"Decentralized 4th generation productivity","sourceIndex":2}
+{"date":"2024-04-19T11:54:10.109Z","msg":"Diverse systemic methodology","sourceIndex":1}
+{"date":"2024-04-19T12:08:37.445Z","msg":"Self-enabling transitional policy","sourceIndex":2}
+{"date":"2024-04-19T20:39:42.151Z","msg":"Down-sized bottom-line leverage","sourceIndex":0}
+{"date":"2024-04-19T18:54:17.114Z","msg":"Secured logistical protocol","sourceIndex":1}
+{"date":"2024-04-19T19:08:52.630Z","msg":"Reactive 24/7 leverage","sourceIndex":2}
+{"date":"2024-04-20T00:09:10.877Z","msg":"Exclusive methodical knowledge user","sourceIndex":2}
+{"date":"2024-04-19T19:55:03.631Z","msg":"Cross-platform exuding data-warehouse","sourceIndex":1}
+{"date":"2024-04-20T04:55:08.694Z","msg":"Stand-alone regional budgetary management","sourceIndex":1}
+{"date":"2024-04-20T00:39:48.984Z","msg":"Ergonomic encompassing complexity","sourceIndex":0}
+{"date":"2024-04-20T04:09:30.139Z","msg":"Compatible human-resource knowledge base","sourceIndex":2}
+{"date":"2024-04-20T02:40:20.148Z","msg":"Upgradable optimal circuit","sourceIndex":0}
+{"date":"2024-04-20T04:40:59.735Z","msg":"Function-based transitional instruction set","sourceIndex":0}
+{"date":"2024-04-20T05:09:39.567Z","msg":"Seamless impactful array","sourceIndex":2}
+{"date":"2024-04-20T09:55:59.719Z","msg":"Horizontal static middleware","sourceIndex":1}
+{"date":"2024-04-20T07:41:11.308Z","msg":"Pre-emptive encompassing data-warehouse","sourceIndex":0}
+{"date":"2024-04-20T11:09:59.372Z","msg":"Self-enabling empowering service-desk","sourceIndex":2}
+{"date":"2024-04-20T10:41:59.690Z","msg":"Switchable intermediate architecture","sourceIndex":0}
+{"date":"2024-04-16T07:43:54.305Z","msg":"Operative neutral success","sourceIndex":1}
+{"date":"2024-04-20T15:56:28.304Z","msg":"Configurable fresh-thinking groupware","sourceIndex":1}
+{"date":"2024-04-15T07:56:23.104Z","msg":"Automated bottom-line moderator","sourceIndex":2}
+{"date":"2024-04-20T14:42:53.140Z","msg":"Persevering responsive groupware","sourceIndex":0}
+{"date":"2024-04-20T18:56:33.610Z","msg":"Centralized fresh-thinking adapter","sourceIndex":1}
+{"date":"2024-04-20T19:43:29.842Z","msg":"Vision-oriented high-level moderator","sourceIndex":0}
+{"date":"2024-04-20T21:57:01.488Z","msg":"Quality-focused intangible algorithm","sourceIndex":1}
+{"date":"2024-04-21T01:43:55.843Z","msg":"Right-sized client-server project","sourceIndex":0}
+{"date":"2024-04-21T05:10:32.704Z","msg":"Focused neutral encryption","sourceIndex":2}
+{"date":"2024-04-21T01:57:41.084Z","msg":"Synergistic interactive approach","sourceIndex":1}
+{"date":"2024-04-21T02:58:24.130Z","msg":"Profound non-volatile core","sourceIndex":1}
+{"date":"2024-04-21T06:44:12.985Z","msg":"Multi-channelled holistic protocol","sourceIndex":0}
+{"date":"2024-04-21T10:58:28.751Z","msg":"Up-sized attitude-oriented definition","sourceIndex":1}
+{"date":"2024-04-21T11:10:54.140Z","msg":"Future-proofed optimizing pricing structure","sourceIndex":2}
+{"date":"2024-04-21T16:59:20.588Z","msg":"Vision-oriented dedicated open architecture","sourceIndex":1}
+{"date":"2024-04-21T12:44:16.770Z","msg":"Multi-lateral explicit workforce","sourceIndex":0}
+{"date":"2024-04-21T16:12:36.237Z","msg":"Progressive intermediate matrices","sourceIndex":2}
+{"date":"2024-04-21T11:11:50.747Z","msg":"Customizable web-enabled flexibility","sourceIndex":2}
+{"date":"2024-04-21T13:44:24.270Z","msg":"Customizable fresh-thinking budgetary management","sourceIndex":0}
+{"date":"2024-04-21T18:45:22.491Z","msg":"Cross-group bifurcated leverage","sourceIndex":0}
+{"date":"2024-04-21T19:46:15.775Z","msg":"Robust regional extranet","sourceIndex":0}
+{"date":"2024-04-20T20:10:18.038Z","msg":"Function-based object-oriented adapter","sourceIndex":2}
+{"date":"2024-04-20T10:42:17.112Z","msg":"Implemented holistic initiative","sourceIndex":0}
+{"date":"2024-04-18T04:49:34.753Z","msg":"Fully-configurable composite encryption","sourceIndex":1}

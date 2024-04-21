@@ -25,15 +25,25 @@ class Filer {
 
     }
 
-    pop() {
-        let ret = {}
-        //this.db.loadDatabase();
-        console.log("before db.find");
-        this.db.find({}).sort({date: 1}).exec(function (err, docs) {
-            ret = docs.pop();
+    async pop() {
+        var ret = null;
+
+        let p1 = new Promise((resolve, reject) => {
+            this.db.find({}).sort({date: 1}).limit(1).exec( (err, docs) =>{
+                resolve(docs);
+            })
         })
-        console.log("after db.find");
-        //console.log(ret);
+
+        ret = await p1;
+
+        let p2 = new Promise((resolve, reject) => {
+            this.db.remove({_id: ret[0]._id}, {}, (err, docs) =>{
+                resolve(docs);
+            })
+        })
+
+        ret = await p2;
+
         return ret;
     }
 }
