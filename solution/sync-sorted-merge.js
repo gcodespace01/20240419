@@ -1,4 +1,5 @@
 "use strict";
+const Utils = require("./utils");
 
 const date = require("Faker/lib/date");
 const LogSource = require("../lib/log-source");
@@ -9,6 +10,8 @@ const Printer = require("../lib/printer");
 module.exports = (logSources, printer) => {
 
   const first = [];
+  const utils = new Utils();
+
   for (let i = 0; i < logSources.length; i++) {
     let entry = logSources[i].pop();
     first.push( {
@@ -18,11 +21,9 @@ module.exports = (logSources, printer) => {
     }
     );
   }
+  utils.sort(first)
 
   while (first.length > 0) {
-    first.sort((a, b) => {
-      return a.date - b.date
-    })
 
     let entry = first[0];
     printer.print(entry);
@@ -33,11 +34,11 @@ module.exports = (logSources, printer) => {
       continue;
     }
 
-    first.push( {
+    utils.insert({
       date: pop.date,
       msg: pop.msg,
       sourceIndex: entry.sourceIndex,
-    })
+    }, first);
   }
 
   printer.done();
