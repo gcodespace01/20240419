@@ -42,7 +42,7 @@ module.exports = (logSources, printer) => {
 
     asyncSortedMerge(logSources, printer);
 
-    resolve(console.log("Sync sort complete."));
+    resolve(console.log("Async sort complete."));
   }); // new Promise
 
 };
