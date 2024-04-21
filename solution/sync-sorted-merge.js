@@ -29,11 +29,11 @@ module.exports = (logSources, printer) => {
 
   while (first.length > 0) {
 
-    let entry = first[0];
+    let entry = first.shift();
     //printer.print(entry);
-    first.shift();
 
-    filer.pop();
+    let p1 = filer.pop();
+    console.log("p1="+p1);
     let pop = logSources[entry.sourceIndex].pop();
     if (pop === false) {
       continue;

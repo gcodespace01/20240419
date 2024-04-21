@@ -19,9 +19,8 @@ async function asyncSortedMerge(logSources, printer) {
 
   while (first.length > 0) {
 
-    let entry = first[0];
+    let entry = first.shift();
     //printer.print(entry);
-    first.shift();
 
     let pop = await logSources[entry.sourceIndex].popAsync();
     if (pop === false) {

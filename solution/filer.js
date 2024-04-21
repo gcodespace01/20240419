@@ -30,19 +30,24 @@ class Filer {
 
         let p1 = new Promise((resolve, reject) => {
             this.db.find({}).sort({date: 1}).limit(1).exec( (err, docs) =>{
+                this.db.remove({_id: docs[0]._id}, {multi: true}, (err, docs) =>{
+                    resolve(docs);
+                })
                 resolve(docs);
             })
         })
 
         ret = await p1;
 
+        console.log("p1.ret="+JSON.stringify(ret));
+
         let p2 = new Promise((resolve, reject) => {
-            this.db.remove({_id: ret[0]._id}, {}, (err, docs) =>{
+            this.db.remove({}, {multi: true}, (err, docs) =>{
                 resolve(docs);
             })
         })
 
-        ret = await p2;
+        console.log("p2.ret="+JSON.stringify(ret));
 
         return ret;
     }
