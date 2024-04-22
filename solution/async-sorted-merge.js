@@ -6,16 +6,23 @@ async function asyncSortedMerge(logSources, printer) {
   let first = [];
   const utils = new Utils();
 
+  let promises = [];
+
   for (let i = 0; i < logSources.length; i++) {
-    let pop = await logSources[i].popAsync();
-    first.push( {
-      date: pop.date,
-      msg: pop.msg,
-      sourceIndex: i,
-    })
+    let promise = logSources[i].popAsync();
+    promise.then(entry => {
+      first.push( {
+        date: entry.date,
+        msg: entry.msg,
+        sourceIndex: i,
+      })
+    });
+    promises.push(promise);
   }
 
-  utils.sort(first);
+  await Promise.all(promises).then(() => {
+    utils.sort(first);
+  })
 
   while (first.length > 0) {
 
