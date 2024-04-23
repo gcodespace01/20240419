@@ -26,9 +26,19 @@ module.exports = (logSources, printer) => {
   while (first.length > 0) {
 
     let entry = first.shift();
-    printer.print(entry);
+    //printer.print(entry);
 
-    let pop = logSources[entry.sourceIndex].pop();
+    let pop = {}
+    do {
+      pop = logSources[entry.sourceIndex].pop();
+      if (pop === false) {
+        break;
+      }
+      if (pop.date <= entry.date) {
+        printer.print(pop);
+      }
+    } while (pop.date <= entry.date);
+
     if (pop === false) {
       continue;
     }
@@ -38,6 +48,7 @@ module.exports = (logSources, printer) => {
       msg: pop.msg,
       sourceIndex: entry.sourceIndex,
     }, first);
+
   }
 
   printer.done();
